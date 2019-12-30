@@ -1553,7 +1553,7 @@
             </div>
             <div class="col-md-5 ml-auto">
               <div class="card card-contact">
-                <form id="contact-form" method="post">
+                <form id="contact-form" method="post" action="contact.php" role="form">
                   <div class="card-header card-header-raised card-header-primary text-center">
                     <h4 class="card-title">Contact Us</h4>
                   </div>
@@ -1562,37 +1562,34 @@
                       <div class="col-md-6">
                         <div class="form-group label-floating is-empty">
                           <label class="bmd-label-floating">First name</label>
-                          <input type="text" name="name" class="form-control">
+                          <input id="form_name" type="text" name="name" class="form-control" required="required" data-error="Firstname is required.">
                           <span class="material-input"></span>
                         </div>
                       </div>
                       <div class="col-md-6">
                         <div class="form-group label-floating is-empty">
                           <label class="bmd-label-floating">Last name</label>
-                          <input type="text" name="name" class="form-control">
+                          <input id="form_lastname" type="text" name="name" class="form-control" required="required" data-error="Lastname is required.">
                           <span class="material-input"></span>
                         </div>
                       </div>
                     </div>
                     <div class="form-group label-floating is-empty">
                       <label class="bmd-label-floating">Email address</label>
-                      <input type="email" name="email" class="form-control">
+                      <input id="form_email" type="email" name="email" class="form-control" required="required" data-error="Valid email is required.">
                       <span class="material-input"></span>
                     </div>
                     <div class="form-group label-floating is-empty">
                       <label for="exampleMessage1" class="bmd-label-floating">Your Message</label>
-                      <textarea name="message" class="form-control" id="exampleMessage1" rows="6"></textarea>
+                      <textarea name="message" class="form-control" id="form_message" rows="6" required="required" data-error="Please,leave us a message."></textarea>
                       <span class="material-input"></span>
                     </div>
                   </div>
                   <div class="card-footer justify-content-between">
                     <div class="form-check">
-                      <label class="form-check-label">
-                        <input class="form-check-input" type="checkbox" value=""> I'm not a robot
-                        <span class="form-check-sign">
-                          <span class="check"></span>
-                        </span>
-                      </label>
+                      <div class="g-recaptcha" data-sitekey="6LfGEcsUAAAAABJEcuPrqzAI-6xz4nWdO-DkWP6M" data-callback="verifyRecaptchaCallback" data-expired-callback="expiredRecaptchaCallback"></div>
+                        <input class="form-control d-none" data-recaptcha="true" required data-error="Please complete the Captcha">
+                        <div class="help-block with-errors"></div>
                     </div>
                     <button type="submit" class="btn btn-primary pull-right">Send Message</button>
                   </div>
