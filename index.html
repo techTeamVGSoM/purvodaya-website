@@ -1553,7 +1553,7 @@
             </div>
             <div class="col-md-5 ml-auto">
               <div class="card card-contact">
-                <form id="contact-form" method="post" action="contact.php" role="form">
+                <form id="contact-form" method="post" action="https://formspree.io/myykbjdp">
                   <div class="card-header card-header-raised card-header-primary text-center">
                     <h4 class="card-title">Contact Us</h4>
                   </div>
@@ -1562,34 +1562,32 @@
                       <div class="col-md-6">
                         <div class="form-group label-floating is-empty">
                           <label class="bmd-label-floating">First name</label>
-                          <input id="form_name" type="text" name="name" class="form-control" required="required" data-error="Firstname is required.">
+                          <input type="text" name="firstname" class="form-control" required>
                           <span class="material-input"></span>
                         </div>
                       </div>
                       <div class="col-md-6">
                         <div class="form-group label-floating is-empty">
                           <label class="bmd-label-floating">Last name</label>
-                          <input id="form_lastname" type="text" name="name" class="form-control" required="required" data-error="Lastname is required.">
+                          <input type="text" name="lastname" class="form-control" required>
                           <span class="material-input"></span>
                         </div>
                       </div>
                     </div>
                     <div class="form-group label-floating is-empty">
                       <label class="bmd-label-floating">Email address</label>
-                      <input id="form_email" type="email" name="email" class="form-control" required="required" data-error="Valid email is required.">
+                      <input type="email" name="_replyto" class="form-control" required>
                       <span class="material-input"></span>
                     </div>
                     <div class="form-group label-floating is-empty">
                       <label for="exampleMessage1" class="bmd-label-floating">Your Message</label>
-                      <textarea name="message" class="form-control" id="form_message" rows="6" required="required" data-error="Please,leave us a message."></textarea>
+                      <textarea name="message" class="form-control" rows="6" required></textarea>
                       <span class="material-input"></span>
                     </div>
                   </div>
                   <div class="card-footer justify-content-between">
                     <div class="form-check">
-                      <div class="g-recaptcha" data-sitekey="6LfGEcsUAAAAABJEcuPrqzAI-6xz4nWdO-DkWP6M" data-callback="verifyRecaptchaCallback" data-expired-callback="expiredRecaptchaCallback"></div>
-                        <input class="form-control d-none" data-recaptcha="true" required data-error="Please complete the Captcha">
-                        <div class="help-block with-errors"></div>
+                      
                     </div>
                     <button type="submit" class="btn btn-primary pull-right">Send Message</button>
                   </div>
