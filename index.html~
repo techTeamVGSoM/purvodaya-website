@@ -1,0 +1,2695 @@
+<!--
+   =========================================================
+   Material Kit PRO - v2.2.0
+   =========================================================
+   
+   Product Page: https://www.creative-tim.com/product/material-kit-pro
+   Copyright 2019 Creative Tim (https://www.creative-tim.com)
+   
+   Coded by Creative Tim
+   
+   =========================================================
+   
+   The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+   -->
+<!DOCTYPE html>
+<html lang="en" style="scroll-behavior: smooth">
+   <head>
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-156085361-2"></script>
+      <script>
+         window.dataLayer = window.dataLayer || [];
+         function gtag(){dataLayer.push(arguments);}
+         gtag('js', new Date());
+         
+         gtag('config', 'UA-156085361-2');
+      </script>
+      <meta charset="utf-8" />
+      <link rel="apple-touch-icon" sizes="76x76" href="./assets/img/purvodaya-logo.png">
+      <link rel="icon" type="image/png" href="./assets/img/purvodaya-logo.png">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+      <title>
+         Purvodaya'22 | VGSoM, IIT Kharagpur
+      </title>
+      <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
+      <meta name="description" content="Purvodaya is the annual business fest of vinod gupta school of management, IIT Kharagpur. It is an amalgamation of events spread across all the domains of business and management. "/>
+      <meta name="keywords" content="VGSOM, IIT Kharagpur, business fest, mangement fest, management competitions, competitions, consulting, finance, marketing, CSR "/>
+      <!--     Fonts and icons     -->
+      <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
+      <!-- CSS Files -->
+      <link href="./assets/css/material-kit.css?v=2.2.0" rel="stylesheet" />
+      <!-- CSS Just for demo purpose, don't include it in your project -->
+      <link href="./assets/demo/demo.css" rel="stylesheet" />
+      <link href="./assets/demo/vertical-nav.css" rel="stylesheet" />
+   </head>
+   <body class="sections-page sidebar-collapse">
+      <div class="main">
+         <div class="section-space"></div>
+         <div class="cd-section" id="headers">
+            <!--     *********     HEADER 1      *********      -->
+            <div class="header-1">
+               <nav 	class="navbar  bg-dark   fixed-top  navbar-expand-lg ">
+                  <div class="container">
+                     <!-- Brand and toggle get grouped for better mobile display -->
+                     <div class="navbar-translate">
+                        <a href="#">
+                        <img   width=auto height=60px type="image/png" src="./assets/img/purvodaya-logo.png">
+                        </a>
+                        <button type="button" class="ml-auto navbar-toggler" data-toggle="collapse" data-target="#navigation-example4">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="navbar-toggler-icon"></span>
+                        <span class="navbar-toggler-icon"></span>
+                        <span class="navbar-toggler-icon"></span>
+                        </button>
+                     </div>
+                     <div class="collapse navbar-collapse" id="navigation-example4">
+                        <ul class="navbar-nav navbar-center ml-auto">
+                           <li class="nav-item">
+                              <a href="#overview"class="nav-link">
+                              Overview
+                              </a>
+                           </li>
+                           <li class="nav-item">
+                              <a href="#speakers" class="nav-link">
+                              Speakers
+                              </a>
+                           </li>
+                           <li class="nav-item">
+                              <a href="#events" class="nav-link">
+                              Events
+                              </a>
+                           </li>
+                           <li class="nav-item">
+                              <a href="#sponsors" class="nav-link">
+                              Sponsors	
+                              </a>
+                           </li>
+                           <li class="nav-item">
+                              <a href="#gallery" class="nav-link">
+                              Gallery	
+                              </a>
+                           </li>
+                           <li class="nav-item">
+                              <a href="#theteam" class="nav-link">
+                              Our Team
+                              </a>
+                           </li>
+                           <li class="nav-item">
+                              <a href="#contactus" class="nav-link">
+                              Contact Us
+                              </a>
+                           </li>
+                        </ul>
+                        <ul class="navbar-nav ml-auto">
+                           <li class="nav-item">
+                              <a href="https://www.linkedin.com/in/purvodaya-vgsom-iit-kharagpur-54288ab6/" target="_blank" class="nav-link">
+                              <i class="fa fa-linkedin"></i>
+                              </a>
+                           </li>
+                           <li class="nav-item">
+                              <a href="https://www.facebook.com/Purvodaya.VGSoM/" target="_blank" class="nav-link">
+                              <i class="fa fa-facebook-square"></i>
+                              </a>
+                           </li>
+                           <li class="nav-item">
+                              <a href="https://www.instagram.com/vgsomiitkgp.purvodaya" target="_blank" class="nav-link">
+                              <i class="fa fa-instagram"></i>
+                              </a>
+                           </li>
+                        </ul>
+                     </div>
+                  </div>
+               </nav>
+               <div class="page-header header-filter" id="home" style="background-image: url('./assets/img/purvodaya/vgsom-diwali.jpg');">
+                  <div class="container">
+                     <div class="row">
+                        <div class="col-md-6">
+                           <img width=auto height=300px type="image/png" src="./assets/img/purvodaya/Purvodaya_22-min.png"> 
+                           <!--
+                              <h4 style="font-family:pristina;">
+                              	<img width=auto height=60px type="image/png" src="./assets/img/purvodaya/IOCL-logo.png">
+                              	 Presents
+                              	<br>
+                              	<a href="https://som.iitkgp.ac.in" style="font-family:verdana;color: white" target="_blank">Vinod Gupta School of Management, IIT Kharagpur's</a>
+                              </h4>                
+                              <h1 class="title" style="font-family:pristina;">
+                              Purvodaya '20</h1>
+                              -->
+                           <!--
+                              <h3>Fest has concluded. See you in Purvodaya'21</h3>
+                                  <h3>	
+                              <strong><span id="days"></span></strong><small>Days </small> 
+                              <strong><span id="hours"></span></strong><small>Hours </small> 
+                              <strong><span id="minutes"></span></strong><small>Minutes </small> 
+                              <strong><span id="seconds"></span></strong><small>Seconds to go...</small>
+                              </h3>
+                              -->
+                           <p align="justify">Purvodaya is an amalgamation of events spread across all the domains of business and management. Spread across 3 days, it provides an ideal platform for the budding managers and innovators of today to hone their skills and test their mettle against their peers. The event hosts a complete business extravaganza.</p>
+                        </div>
+                        <div class="col-md-5 ml-auto">
+                           <div class="iframe-container">
+                              <iframe height="250" src="https://www.youtube.com/embed/AJDF2RNDlnY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+                           </div>
+                        </div>
+                        <div class=col-md-10>
+                           <!--
+                              <a href="#events" class="btn btn-danger btn-lg">
+                                <i class="fa fa-sign-in"></i>&nbsp&nbsp Event Registration
+                              </a>
+                              
+                              <a href="#contactus" class="btn btn-danger btn-lg">
+                                <i class="fa fa-inr"></i>&nbsp&nbsp Become a Sponsor 
+                              </a>
+                              <a href="./assets/download/Purvodaya Brochure 2020.pdf" target="_blank" class="btn btn-danger btn-lg">
+                                <i class="fa fa-download"></i>&nbsp&nbsp Download Brochure 
+                              </a>
+                              -->
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!--     *********    END HEADER 1      *********      -->
+         </div>
+         <div class="cd-section" id="overview">
+            <!--     *********    PROJECTS 4     *********      -->
+            <div class="projects-4" id="projects-4">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-md-11 ml-auto mr-auto text-center">
+                        <h2 class="title">About Purvodaya</h2>
+                        <p  align="justify">
+                           Purvodaya, the annual B-school fest of Vinod Gupta School of Management, IIT Kharagpur is an amalgamation of events spread across all the domains of business and management. Spread across 3 days, it provides an ideal platform for the budding managers and innovators of today to hone their skills and test their mettle against their peers. The event hosts a complete business extravaganza. <br>
+                           We create an environment wherein students from all over India aspire to learn the business jargons and win the competitions. It aims to bring together management students from various B-schools of the country to a common platform where each participant presents his/her business acumen to be the best and win the competitions.<br>
+                           A coalescence of corporate tycoons, industry experts, technocrats and best business minds from all over India bring their vast knowledge share to the table
+                           The Speakers are creative market leaders, who share their insights at the leadership summit. Meeting the experts unlocks the secrets of commercial success. Together, they change how we think about business.<br>
+                           Purvodaya is the place to learn, share and develop new ways of thinking. It is a festival of ideas, innovation, challenge and creativity, a place where future businessmen and corporate leaders of different backgrounds come to grow.<br>
+                           Purvodaya concludes on an ecstatic note with a fun-filled cultural night thereby adding colors to the mundane MBA life.
+                        </p>
+                     </div>
+                  </div>
+                  <div class="row">
+                     <div class="col-md-11 ml-auto mr-auto text-center">
+                        <h4 class="title">Purvodaya 2022 – BREAKING THE PARADIGMS</h4>
+                        <p align="center">
+                           <b>
+                              “Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek.” 
+                        </p>
+                        <p align="right">- Barack Obama</b></p>
+                        <p align="justify">The past millennium has been an era of countless inventions like the Printing Press which allowed literacy to greatly expand, Electric Light that powered countless social changes, Vaccinations that protected people from diseases, Airplanes allowing people and products to quickly move, Radio and Television that made the world look smaller, and Computers which transformed Business world. These changes were only possible due to the Creativity of some enthusiastic minds. That Creativity broke out established patterns to look at things differently. Small changes in our reasoning can prompt gigantic modifications in our outcome.
+                           In Purvodaya, the annual B-School fest of Vinod Gupta School of Management, IIT Kharagpur, we encourage the vigorous minds of the Country to participate in a surfeit of opportunities and to leave a mark by excelling in different events by abandoning antiquated approaches and spawning the newer ideas. Through adaptability, flexibility, and robustness these bright minds decipher the labyrinth of contemporary Business challenges and emerge victoriously. We strive to continue the magic and the ethos that has made past editions events to remember, by making sure that Purvodaya is where ideas get sparked, innovations thrive, and creativity blooms.
+                        </p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="cd-section" id="features">
+            <div class="container">
+            </div>
+            <!--     *********     FEATURES 5      *********      -->
+            <div class="features-5" style="background-image: url('./assets/img/bg9.jpg')">
+               <div class="col-md-8 ml-auto mr-auto text-center">
+                  <h2 class="title">Purvodaya Stats</h2>
+               </div>
+               <div class="container">
+                  <div class="row">
+                     <div class="col-sm-4">
+                        <div class="info">
+                           <div class="icon">
+                              <i class="fa fa-trophy"></i>
+                           </div>
+                           <h4 class="info-title">18+</h4>
+                           <p>More than 18 events spread over 3 days</p>
+                        </div>
+                     </div>
+                     <div class="col-sm-4">
+                        <div class="info">
+                           <div class="icon">
+                              <i class="fa fa-users"></i>
+                           </div>
+                           <h4 class="info-title">6000+</h4>
+                           <p><b> Purvodaya '21</b> saw a staggering number of registrations of over 6000 students from across the country  </p>
+                        </div>
+                     </div>
+                     <div class="col-sm-4">
+                        <div class="info">
+                           <div class="icon">
+                              <i class="fa fa-inr"></i>
+                           </div>
+                           <h4 class="info-title">10+ Lakhs</h4>
+                           <p>Over <b>10 lakhs</b> worth prizes to be won</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="row">
+                     <div class="col-sm-4">
+                        <div class="info">
+                           <div class="icon">
+                              <i class="fa fa-facebook"></i> &ensp;
+                              <i class="fa fa-instagram"></i> &ensp;
+                              <i class="fa fa-linkedin"></i>
+                           </div>
+                           <h4 class="info-title">10000+</h4>
+                           <p>Over 10000 followers on Social Media Platforms</p>
+                        </div>
+                     </div>
+                     <div class="col-sm-4">
+                        <div class="info">
+                           <div class="icon">
+                              <i class="fa fa-graduation-cap"></i>
+                           </div>
+                           <h4 class="info-title">330+</h4>
+                           <p>Over 330 participating colleges spread across the country</p>
+                        </div>
+                     </div>
+                     <div class="col-sm-4">
+                        <div class="info">
+                           <div class="icon">
+                              <i class="fa fa-signal"></i>
+                           </div>
+                           <h4 class="info-title">30+</h4>
+                           <p><b>Purvodaya '21</b> saw over 30 sponsors</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!--     *********    END FEATURES 5      *********      -->
+         </div>
+         <div class="cd-section" id="blogs">
+            <!-- Carousel Card -->
+            <!-- 
+               <div id="speakers" class="carousel slide" data-ride="carousel">
+                 <ol class="carousel-indicators">
+                   <li data-target="#speakers" data-slide-to="0" class="active"></li>
+               
+                   <li data-target="#speakers" data-slide-to="1"></li>
+                   <li data-target="#speakers" data-slide-to="2"></li>
+                   <li data-target="#speakers" data-slide-to="3"></li>
+                   <li data-target="#speakers" data-slide-to="4"></li>
+               
+                 </ol>
+                 <div class="carousel-inner">
+                   <div class="carousel-item active">
+                     <img src="./assets/img/Previous Guests/1.jpg" alt="" style="width: 100%;">
+                   </div>
+                   
+                   <div class="carousel-item">
+                     <img src="./assets/img/Previous Guests/2.jpg" alt="" style="width: 100%;">
+                   </div>
+                   <div class="carousel-item">
+                     <img src="./assets/img/Previous Guests/3.jpg" alt="" style="width: 100%;">
+                   </div>
+                   <div class="carousel-item">
+                     <img src="./assets/img/Previous Guests/4.jpg" alt="" style="width: 100%;">
+                   </div>
+                   <div class="carousel-item">
+                     <img src="./assets/img/Previous Guests/5.jpg" alt="" style="width: 100%;">
+                   </div>
+                 </div>
+                 <a class="carousel-control-prev" href="#speakers" role="button" data-slide="prev">
+                   <i class="material-icons">keyboard_arrow_left</i>
+                   <span class="sr-only">Previous</span>
+                 </a>
+                 <a class="carousel-control-next" href="#speakers" role="button" data-slide="next">
+                   <i class="material-icons">keyboard_arrow_right</i>
+                   <span class="sr-only">Next</span>
+                 </a>
+               </div>
+               -->
+            <div id="speakers" class="carousel slide" data-ride="carousel">
+               <h2 class="title" align="center">Speakers<br></h2>
+               <ol class="carousel-indicators">
+                  <li data-target="#speakers" data-slide-to="0" class="active"></li>
+                  <li data-target="#speakers" data-slide-to="1"></li>
+                  <li data-target="#speakers" data-slide-to="2"></li>
+                  <li data-target="#speakers" data-slide-to="3"></li>
+                  <li data-target="#speakers" data-slide-to="4"></li>
+                  <li data-target="#speakers" data-slide-to="5"></li>
+                  <li data-target="#speakers" data-slide-to="6"></li>
+                  <li data-target="#speakers" data-slide-to="7"></li>
+                  <li data-target="#speakers" data-slide-to="8"></li>
+                  <li data-target="#speakers" data-slide-to="9"></li>
+               </ol>
+               <div class="carousel-inner" align = "center">
+                  <div class="carousel-item active">
+                     <img src="./assets/img/guests/2022/ChiefGuestPoster.jpg" alt="" style="width: 40%;">
+                  </div>
+                  <div class="carousel-item">
+                     <img src="./assets/img/guests/2022/GuestofHonor.jpg" alt="" style="width: 40%;">
+                  </div>
+                  <div class="carousel-item">
+                     <img src="./assets/img/guests/2022/Director.jpg" alt="" style="width: 40%;">
+                  </div>
+                  <div class="carousel-item">
+                     <img src="./assets/img/guests/2022/Dean.jpg" alt="" style="width: 40%;">
+                  </div>
+                  <div class="carousel-item">
+                     <img src="./assets/img/guests/2022/KaushikMitra.jpg" alt="" style="width: 40%;">
+                  </div>
+                  <div class="carousel-item">
+                     <img src="./assets/img/guests/2022/MeeranBorwankar.jpg" alt="" style="width: 40%;">
+                  </div>
+                  <div class="carousel-item">
+                     <img src="./assets/img/guests/2022/PravirKumar.jpg" alt="" style="width: 40%;">
+                  </div>
+                  <div class="carousel-item">
+                     <img src="./assets/img/guests/2022/LS_cmi.jpg" alt="" style="width: 50%;">
+                  </div>
+                  <div class="carousel-item">
+                     <img src="./assets/img/guests/2022/ALumcomm.jpg" alt="" style="width: 50%;">
+                  </div>
+               </div>
+               <a class="carousel-control-prev" href="#speakers" role="button" data-slide="prev">
+               <i class="material-icons">keyboard_arrow_left</i>
+               <span class="sr-only">Previous</span>
+               </a>
+               <a class="carousel-control-next" href="#speakers" role="button" data-slide="next">
+               <i class="material-icons">keyboard_arrow_right</i>
+               <span class="sr-only">Next</span>
+               </a>
+            </div>
+            <!-- End Carousel Card -->
+            <!--     *********     BLOGS 1      *********      -->
+            <div id="events" class="blogs-1" id="blogs-1">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-md-10 ml-auto mr-auto">
+                        <h2 class="title" align="center">Events</h2>
+                        <!--  				<h3 align = "center"><b>COMING SOON!</b></h3> -->
+                        <br>
+                        <ul class="nav nav-pills nav-pills-primary" role="tablist">
+                           <li class="nav-item">
+                              <a class="nav-link active" data-toggle="tab" href="#entrepreneurship" role="tablist" aria-expanded="true">
+                              Entrepreneurship
+                              </a>
+                           </li>
+                           <li class="nav-item">
+                              <a class="nav-link" data-toggle="tab" href="#supplyChain" role="tablist" aria-expanded="false">
+                              Supply chain & Operations
+                              </a>
+                           </li>
+                           <li class="nav-item">
+                              <a class="nav-link" data-toggle="tab" href="#finance" role="tablist" aria-expanded="false">
+                              Finance
+                              </a>
+                           </li>
+                           <li class="nav-item">
+                              <a class="nav-link" data-toggle="tab" href="#consulting" role="tablist" aria-expanded="false">
+                              Consulting
+                              </a>
+                           </li>
+                           <li class="nav-item">
+                              <a class="nav-link" data-toggle="tab" href="#marketing" role="tablist" aria-expanded="false">
+                              Marketing
+                              </a>
+                           </li>
+                           <li class="nav-item">
+                              <a class="nav-link" data-toggle="tab" href="#csr" role="tablist" aria-expanded="false">
+                              CSR
+                              </a>
+                           </li>
+                           <li class="nav-item">
+                              <a class="nav-link" data-toggle="tab" href="#others" role="tablist" aria-expanded="false">
+                              Others
+                              </a>
+                           </li>
+                        </ul>
+                        
+                        
+                        <!-- entrepreneurship-->
+                        
+                        <div class="tab-content tab-space">
+                           <div class="tab-pane active" id="entrepreneurship" aria-expanded="true">
+                              <div class="card card-plain card-blog">
+                                 <div class="row">
+                                    <div class="col-md-7">
+                                       <h3 class="card-title">
+                                          <a href="#pablo">Srijan - Innovation and Entrepreneurship</a>
+                                       </h3>
+                                       <h6 class="card-category text-info">Entrepreneurship Cell</h6>
+                                       <p class="card-description" align="justify">
+                                          Srijan is a business plan competition that will enable you to take your ideas to the next level. The viability of your ideas shall be judged, mentors will guide you to improve upon your business plans and you will have a chance to showcase your ideas and B-plans in front of angel investors and venture capitalists.
+                                          </p> <br>
+                                          <a href="https://unstop.com/competition/srijan-purvodaya23-vinod-gupta-school-of-management-vgsom-indian-institute-of-technology-iit-kharagpur-568898" target="_blank"><button class="btn btn-primary pull-right"> Register on Unstop </button></a>
+                                       
+                                    </div>
+                                    <div class="col-md-5">
+                                       <div class="card-header card-header-image">
+                                          <img class="img img-raised" src="./assets/img/events/ECell_Srijan23.png">
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="card card-plain card-blog">
+                                 <div class="row">
+                                    <div class="col-md-5">
+                                       <div class="card-header card-header-image">
+                                          <img class="img img-raised" src="./assets/img/events/Ecell_Vichaar23.png">
+                                       </div>
+                                    </div>
+                                    <div class="col-md-7">
+                                       <h3 class="card-title">
+                                          <a href="#pablo">Vichaar - Innovation and Entrepreneurship</a>
+                                       </h3>
+                                       <h6 class="card-category text-info">Entrepreneurship Cell</h6>
+                                       <p class="card-description" align="justify">
+                                          Vichaar provides a unique opportunity for budding entrepreneurs to apply their strategic skills in solving real-time business problems faced by various Startups
+                                       </p> <br>
+                                          <a href="https://unstop.com/competition/vichaar-purvodaya23-vinod-gupta-school-of-management-vgsom-indian-institute-of-technology-iit-kharagpur-568608" target="_blank"><button class="btn btn-primary pull-right"> Register on Unstop </button></a>
+                                       
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           
+                           
+                           <!-- suplly chain -->
+                           
+                           <div class="tab-pane" id="supplyChain" aria-expanded="false">
+                						<div class="card card-plain card-blog">
+                							<div class="row">
+                								<div class="col-md-7">
+                									<h3 class="card-title">
+                										<a href="#pablo">Modus Operandi</a>
+                									</h3>
+                									<h6 class="card-category text-info">Scope Club</h6>
+                									<p class="card-description" align="justify">
+                										The Supply Chain and Operations (SCOPE) Club of Vinod Gupta School of Management, IIT Kharagpur proudly presents the prestigious event of the Purvodaya festival, Modus Operandi - The Supply Chain and Operations spectacle. A unique platform for students to taste the flavor of the real business issues related to core operations activities. Here is the chance to win exciting rewards by discovering your acumen in Supply chain and Operations, with challenging and invigorating rounds.
+                									  <br>
+
+                										<a href="https://unstop.com/competition/iscea-presents-modus-operandi-purvodaya23-purvodaya23-vinod-gupta-school-of-management-vgsom-indian-institut-568656" target="_blank"><button class="btn btn-primary pull-right"> Register on Unstop </button></a>
+                									</p>
+
+                								</div>
+                								<div class="col-md-5">
+                									<div class="card-header card-header-image">
+                										<img class="img img-raised" src="./assets/img/events/Scope_Modus Operandi23.png">
+                									</div>
+                								</div>
+                							</div>
+                						</div>
+                					</div>
+                					
+                           
+                           <!-- finance -->
+                           
+                           <div class="tab-pane" id="finance" aria-expanded="false">
+                              <div class="card card-plain card-blog">
+                                 <div class="row">
+                                    <div class="col-md-7">
+                                       <h3 class="card-title">
+                                          <a href="#pablo">Mulyankan</a>
+                                       </h3>
+                                       <h6 class="card-category text-info">Finterest Club</h6>
+                                       <p class="card-description" align="justify">
+                                          Mulyankan is a National Level Financial Valuation competition. It is a distinctive platform for students to demonstrate their financial acumen. The contest's three rounds will put a variety of your talents to the test, push the boundaries of your knowledge, and give you a fantastic opportunity to earn exciting rewards.
+                                          <br>Valuing the best
+                                          <a href="https://unstop.com/competition/mulyankan-purvodaya23-vinod-gupta-school-of-management-vgsom-indian-institute-of-technology-iit-kharagpur-572759" target="_blank"><button class="btn btn-primary pull-right"> Register on Unstop </button></a>
+                                       </p>
+                                    </div>
+                                    <div class="col-md-5">
+                                       <div class="card-header card-header-image">
+                                          <a href="#events">
+                                          <img class="img" src="./assets/img/events/Mulyankan_23.png">
+                                          </a>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="card card-plain card-blog">
+                                 <div class="row">
+                                    <div class="col-md-5">
+                                       <div class="card-header card-header-image">
+                                          <a href="#events">
+                                          <img class="img" src="./assets/img/events/Synergy_23.png">
+                                          </a>
+                                       </div>
+                                    </div>
+                                    <div class="col-md-7">
+                                       <h3 class="card-title">
+                                          <a href="#pablo">Synergy</a>
+                                       </h3>
+                                       <h6 class="card-category text-info">Drishtee Capital</h6>
+                                       <p class="card-description" align="justify">
+                                          
+										 Drishtee Capital – A Student-run Investment Club of Vinod Gupta School of Management, IIT Kharagpur, proudly presents the challenging event of the Purvodaya festival, Synergy in association with Multi Commodity Exchange of India (MCX). This platform is where you get the opportunity to bring out the trading maniac inside you and showcase your trading acumen by solving some real-life challenging cases among thousands of talented minds across the country.
+                                          <br>Time to showcase your Trading skills!!
+										  <a href="https://unstop.com/competition/synergy-purvodaya23-vinod-gupta-school-of-management-vgsom-indian-institute-of-technology-iit-kharagpur-568655" target="_blank"><button class="btn btn-primary pull-right"> Register on Unstop </button></a>
+                                       </p>
+                                    </div>
+                                 </div>
+                              </div>
+                              
+                             
+                           <!-- consulting -->
+                          
+                           </div>
+                           <div class="tab-pane" id="consulting" aria-expanded="false">
+                              <div class="card card-plain card-blog">
+                                 <div class="row">
+                                    <div class="col-md-7">
+                                       <h3 class="card-title">
+                                          <a href="#pablo"><strong> Sumantran 2023</strong> - Hunt for the Star Consultant</a>
+                                       </h3>
+                                       <h6 class="card-category text-info">The Consulting Club</h6>
+                                       <p class="card-description" align="justify">
+                                          The Consulting Club of Vinod Gupta School of Management, IIT Kharagpur is excited to present its annual event of the Purvodaya festival, Sumantran - A hunt for the star consultant. Here’s your chance to compete with the best minds across the nation. Put on your consultant hats and make your way through quizzes, cases, presentations and challenging questions to emerge as the star consultant. Spread across three rounds, the contest will challenge you with a comprehensive case that will test your analytical skills and business acumen to dive deep into the critical business problem and solve it in a structured way to deliver effective and implementable solutions
+                                          <br>Hunt for the Star Consultant
+										  <a href=" https://unstop.com/competition/sumantran-2023-hunt-for-the-star-consultant-purvodaya23-vinod-gupta-school-of-management-vgsom-indian-instit-577787" target="_blank"><button class="btn btn-primary pull-right"> Register on Unstop </button></a>
+                                       </p>
+                                    </div>
+                                    <div class="col-md-5">
+                                       <div class="card-header card-header-image">
+                                          <a href="#events">
+                                          <img class="img" src="./assets/img/events/Sumantran_23.png">
+                                          </a>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="card card-plain card-blog">
+                                 <div class="row">
+                                    <div class="col-md-5">
+                                       <div class="card-header card-header-image">
+                                          <a href="#events">
+                                          <img class="img" src="./assets/img/events/Guesstimates_23.png">
+                                          </a>
+                                       </div>
+                                    </div>
+                                    <div class="col-md-7">
+                                       <h3 class="card-title">
+                                          <a href="#pablo">Guesstimates</a>
+                                       </h3>
+                                       <h6 class="card-category text-info"> The Consulting Club</h6>
+                                       <p class="card-description" align="justify">
+                                          The Consulting Club (TCC) of Vinod Gupta School of Management, IIT Kharagpur proudly presents one of the most prestigious events of the Purvodaya festival, Guesstimates - What gets measured, gets managed. Consultants all over the world are required to guesstimate on a daily basis to propose the best possible solution for the client’s requirements. Here is a chance to win exciting prizes by discovering your acumen on Guesstimates through challenging and invigorating rounds.
+                                          <br>What gets measured, gets managed!
+										  <a href="https://unstop.com/competition/guesstimates-what-gets-measured-gets-managed-purvodaya23-vinod-gupta-school-of-management-vgsom-indian-insti-577890" target="_blank"><button class="btn btn-primary pull-right"> Register on Unstop </button></a>
+                                       </p>
+                                    </div>
+                                 </div>
+                              </div>
+                           
+                           
+                           <!-- marketing -->
+                           
+                           </div>
+                           <div class="tab-pane" id="marketing" aria-expanded="false">
+                              <div class="card card-plain card-blog">
+                                 <div class="row">
+                                    <div class="col-md-7">
+                                       <h3 class="card-title">
+                                          <a href="#pablo">Leader's Challenge</a>
+                                       </h3>
+                                       <h6 class="card-category text-info">MAD Club</h6>
+                                       <p class="card-description" align="justify">
+                                          Leader's Challenge is a national-level competition for developing innovative product lines for a market leader in a yet unexplored market segment. The objective of the event is to generate ideas about a new product for a market leader building on their strengths and brand values and then accordingly make plans for brand positioning, risk analysis, feasibility and SWOT analysis, financial analysis and overall business and marketing strategy for it. 
+                                          <a href="https://unstop.com/competition/leaders-challenge-purvodaya23-vinod-gupta-school-of-management-vgsom-indian-institute-of-technology-iit-khar-570788" target="_blank"><button class="btn btn-primary pull-right"> Register on Unstop </button></a>
+                                       </p>
+                                    </div>
+                                    <div class="col-md-5">
+                                       <div class="card-header card-header-image">
+                                          <img class="img img-raised" src="./assets/img/events/MAD_Leader_Challenge_Poster23.jpg">
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              
+                          
+                           <!-- CSR -->
+                           
+                           </div>
+                           <div class="tab-pane" id="csr" aria-expanded="false">
+                              <div class="card card-plain card-blog">
+                                 <div class="row">
+                                    <div class="col-md-7">
+                                       <h3 class="card-title">
+                                          <a href="#pablo">Parishram</a>
+                                       </h3>
+                                       <h6 class="card-category text-info">Saamanjasya Club</h6>
+                                       <p class="card-description" align="justify">
+                                          Saamanjasya Club of Vinod Gupta School of Management, IIT Kharagpur proudly presents its prestigious event during Purvodaya, Parishram. A unique platform for students to showcase their analytical skills by solving a real-life CSR problem. "Parishram" is a live Social Empowerment Case Study Challenge, being held as a partof Purvodaya 2023 (Feb 03, 2023 to Feb 05, 2023) - our annual B-School fest - where we invite NGOs, to participate by giving inputs as to the major issues the NGOs are facing in today's time. This will be further built into a Case Study, which will then be given to the participants from reputed B-Schools who will be working on solving the case and coming up with feasible solutions and future course of action for the same. In this way, we get to learn about the challenges that NGOs are facing today, and the NGOs would get some insights from the best minds of the country.
+                                          <a href="https://unstop.com/p/saamanjasya-presents-parishram-purvodaya23-vinod-gupta-school-of-management-vgsom-indian-institute-of-technology-iit-k-570843" target="_blank">
+                                          <button class="btn btn-primary pull-right"> Register on Unstop </button></a>
+                                       </p>
+                                    </div>
+                                    <div class="col-md-5">
+                                       <div class="card-header card-header-image">
+                                          <img class="img img-raised" src="./assets/img/events/Parihsram_23.png">
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="card card-plain card-blog">
+                                 <div class="row">
+                                    <div class="col-md-5">
+                                       <div class="card-header card-header-image">
+                                          <img class="img img-raised" src="./assets/img/events/Aalekh_23.png">
+                                       </div>
+                                    </div>
+                                    <div class="col-md-7">
+                                       <h3 class="card-title">
+                                          <a href="#pablo">Aalekh</a>
+                                       </h3>
+                                       <h6 class="card-category text-info">Saamanjasya Club</h6>
+                                       <p class="card-description" align="justify">
+                                          Saamanjasya– The CSR club of VGSoM, IIT Kharagpur presents an opportunity to do some mind scribbling and pen down your thoughts for the article writing competition.A topic on a social issue will be provided to the registered candidates. The most practical, relevant, optimal, easy to implement and appealing solutions will be rewarded. Though English vocabulary alone is not the only criteria but the thought process and the structure of the article to be preferable maintained.
+                                          <a href="https://unstop.com/p/saamanjasya-presents-aalekh-purvodaya23-vinod-gupta-school-of-management-vgsom-indian-institute-of-technology-iit-khar-570599" target="_blank"><button class="btn btn-primary pull-right"> Register on Unstop </button></a>
+                                       </p>
+                                    </div>
+                                 </div>
+                              </div>
+                              
+                           
+                           <!-- others -->
+                           </div>
+                           <div class="tab-pane" id="others" aria-expanded="false">
+                              <div class="card card-plain card-blog">
+                                 <div class="row">
+                                    <div class="col-md-7">
+                                       <h3 class="card-title">
+                                          <a href="#pablo">Quizzard</a>
+                                       </h3>
+                                       <h6 class="card-category text-info">Quiz Club</h6>
+                                       <p class="card-description" align="justify">
+                                          “The beginning of knowledge is the discovery of something we do not understand.”- Frank Herbert.<br>
+                                          We, a group of knowledge enthusiasts bitten by curiosity bug, a.k.a, the Quiz Club of Vinod Gupta School of Management, IIT Kharagpur proudly present our flagship event of Purvodaya Festival – Quizzard – The Ultimate B-School Quiz. If you think you have what it takes, come, be a part of this challenge!"<br>
+										  Teams comprising of 1-2 members are required to participate in an online quiz to be conducted on 14th January, 2023.The teams/individuals need to complete all questions and submit their entries as early as possible.
+                                          <a href="https://unstop.com/quiz/quizzard-purvodaya23-vinod-gupta-school-of-management-vgsom-indian-institute-of-technology-iit-kharagpur-574300" target="_blank"><button class="btn btn-primary pull-right"> Register on Unstop </button></a>
+                                       </p>
+                                    </div>
+                                    <div class="col-md-5">
+                                       <div class="card-header card-header-image">
+                                          <a href="#events">
+                                          <img class="img" src="./assets/img/events/Quizzard_23.png">
+                                          </a>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="card card-plain card-blog">
+                                 <div class="row">
+                                    <div class="col-md-5">
+                                       <div class="card-header card-header-image">
+                                          <a href="#events">
+                                          <img class="img" src="./assets/img/events/Flash_Veloce22.png">
+                                          </a>
+                                       </div>
+                                    </div>
+                                    <div class="col-md-7">
+                                       <h3 class="card-title">
+                                          <a href="#pablo">Veloce – Capturing the Details of Life</a>
+                                       </h3>
+                                       <h6 class="card-category text-info">Flash</h6>
+                                       <p class="card-description" align="justify">
+                                          Team Flash’s Veloce is a videography event that will test the creativity and filmmaking skills of participants. It is an individual videography event on a specific theme – <b>“Macro Videography”</b>.
+                                          The most simple things in this world are also the most extraordinary and fascinating things and only the wise can see them! In this challenge, we expect you to get a Macro Video of something that tells a really fascinating story with a maximum duration of one minute. There is no limit on using your creativity and filmmaking skills, so go ahead and surprise us with your entries.  
+                                          <br>In this event, we ask all the videography enthusiasts to submit their mind-blowing videos to showcase their filmmaking skills."
+                                          <a href="https://dare2compete.com/p/veloce-purvodaya22-purvodaya-22-vinod-gupta-school-of-management-vgsom-indian-institute-of-technology-iit-kharagpur-250004" target="_blank"><button class="btn btn-primary pull-right"> Register on Unstop </button></a>
+                                       </p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="card card-plain card-blog">
+                                 <div class="row">
+                                    <div class="col-md-7">
+                                       <h3 class="card-title">
+                                          <a href="#pablo">Phoson - Let's Collab: You and Art</a>
+                                       </h3>
+                                       <h6 class="card-category text-info">Flash</h6>
+                                       <p class="card-description" align="justify">
+                                          Team Flash’s Phoson is a photography event that will test the creativity and photography skills of participants. As it is said, " You don't take a photograph, you make it". In this event, we ask all the photography enthusiasts to submit photos on one of the three amusing themes that have been provided by us: <b>‘Tech & Life’, ‘Lights & Nights’, ‘Climate & City’</b>.
+                                          <a href="https://dare2compete.com/p/phoson-purvodaya22-purvodaya-22-vinod-gupta-school-of-management-vgsom-indian-institute-of-technology-iit-kharagpur-250023" target="_blank"><button class="btn btn-primary pull-right"> Register on Unstop </button></a>
+                                       </p>
+                                    </div>
+                                    <div class="col-md-5">
+                                       <div class="card-header card-header-image">
+                                          <img class="img img-raised" style="height:400px" src="./assets/img/events/Flash_Phoson22.png">
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <!--<div class="col-md-7">
+                                 <h3 class="card-title">
+                                 	<a href="#pablo">A Day At IIT KHARAGPUR</a>
+                                 </h3>
+                                 	<h6 class="card-category text-info">Consulting Club</h6> 	--><!--
+                                 <p class="card-description" align="justify">
+                                 	Have you ever wondered what goes inside the campus of a premier B-School?<br>
+                                 	Vinod Gupta School of Management, IIT Kharagpur was set up as the first school of management within the IIT system and is currently ranked as one of the top B-Schools in India.<br>
+                                 	Purvodaya presents you the chance to live your dream and experience life in VGSoM, IIT Kharagpur. Explore the glorious campus of IIT Kharagpur and attend lectures for a day as the very student of VGSoM, IIT Kharagpur.
+                                 	<a href="https://d2c.pw/rNVytU" target="_blank"><button class="btn btn-primary pull-right"> Register on Unstop </button></a>
+                                 </p>                    
+                                 </div>
+                                 <div class="col-md-5">
+                                 <div class="card-header card-header-image">
+                                 	<a href="#events">
+                                 		<img class="img" style="height:270px" src="./assets/img/events/A Day at IIT Kharagpur-min.jpg">
+                                 	</a>
+                                 </div>
+                                 </div>
+                                 </div>
+                                 </div>
+                                 <div class="card card-plain card-blog">
+                                 <div class="row">
+                                 <div class="col-md-5">
+                                 <div class="card-header card-header-image">
+                                 	<a href="#events">
+                                 		<img class="img" src="./assets/img/events/Quiz_Quizzard-min.jpg">
+                                 	</a>
+                                 </div>
+                                 </div>
+                                 <div class="col-md-7">
+                                 <h3 class="card-title">
+                                 	<a href="#pablo">Quizzard</a>
+                                 </h3>
+                                 <h6 class="card-category text-info">Quiz Club</h6>
+                                 <p class="card-description" align="justify">
+                                 	“Ask questions to find out something about the world itself, not to find out whether or not someone knows it” -John Holt<br>We, a group of knowledge enthusiasts bitten by curiosity bug, a.k.a the Quiz Club of Vinod Gupta School of Management, IIT Kharagpur proudly present our flagship event of Purvodaya Festival – Quizzard – The Ultimate B-School Quiz.<br>If you think you have what it takes, come, be part of this challenge!
+                                 
+                                 	<a href="https://d2c.pw/Q9xQFx" target="_blank"><button class="btn btn-primary pull-right"> Register on Unstop </button></a>
+                                 </p>
+                                 
+                                 </div>
+                                 </div>
+                                 </div>
+                                 
+                                 <div class="card card-plain card-blog">
+                                 <div class="row">
+                                 <div class="col-md-7">
+                                 <h3 class="card-title">
+                                 	<a href="#pablo">Destello</a>
+                                 </h3>
+                                 <h6 class="card-category text-info">Flash</h6>
+                                 <p class="card-description" align="justify">
+                                 	“Taking pictures is like tiptoeing into the kitchen late at night and stealing Oreo cookies.”
+                                 	— Diane Arbus<br>Adding a pinch of creativity to this version of Purvodaya, Team Flash invites all the photographers and Photography enthusiast to pick up your camera, go out and shoot, and send us your best shot. Needless to say, you should be as charged and geared up as your cameras.
+                                 
+                                 	<a href="https://d2c.pw/DJLnAz" target="_blank"><button class="btn btn-primary pull-right"> Register on Unstop </button></a>
+                                 </p>
+                                 
+                                 </div>
+                                 <div class="col-md-5">
+                                 <div class="card-header card-header-image">
+                                 	<img class="img img-raised" style="height:270px" src="./assets/img/events/Flash_Destello-min.jpg">
+                                 </div>
+                                 </div>
+                                 </div>
+                                 </div>
+                                 <div class="card card-plain card-blog">
+                                 <div class="row">
+                                 <div class="col-md-5">
+                                 <div class="card-header card-header-image">
+                                 	<a href="#events">
+                                 		<img class="img" src="./assets/img/events/Flash_Lights!Camera!Freeze!-min.jpg">
+                                 	</a>
+                                 </div>
+                                 </div>
+                                 <div class="col-md-7">
+                                 <h3 class="card-title">
+                                 	<a href="#pablo">Lights! Camera! Shutter!</a>
+                                 </h3>
+                                 <h6 class="card-category text-info">Flash</h6>
+                                 <p class="card-description" align="justify">
+                                 	What is this life if full of care, we have no time to stand and stare!! “ – William Henry Davies<br>Our lives today have been tailored so as to be in continuous motion. So let's keep only your thoughts to motion while you stay frozen.<br>This challenge of “Story Telling by Mannequin” expects you to be your best at the creativity and teamwork. But time never freezes, so without wasting it further, gear up with your team and camera and leave no stone unturned to surprise us with your creative ideas.
+                                 
+                                 	<a href="https://d2c.pw/DJLnAz" target="_blank"><button class="btn btn-primary pull-right"> Register on Unstop </button></a>
+                                 </p>
+                                 
+                                 </div>
+                                 </div>
+                                 </div>
+                                 
+                                 </div>
+                                 
+                                 
+                                 </div>
+                                 </div>
+                                 </div>
+                                 </div> -->
+                              <!--     *********    END BLOGS 1      *********      -->
+                           </div>
+                        </div>
+                     </div>
+                     <div class="cd-section" id="sponsors">
+                        <!--     *********    PROJECTS 4     *********      -->
+                        <div class="projects-4" id="projects-4">
+                           <div class="container">
+                              <div class="row">
+                                 <div class="col-md-8 ml-auto mr-auto text-center">
+                                    <h2 class="title">Sponsors</h2>
+                                 </div>
+                              </div>
+                              <!--<img width="100%" height="100%" src='./assets/img/purvodaya/sponsors.jpg'>
+                                 -->
+                              <!--<div class = "row">
+                                 <div class ="col-md-4">
+                                 </div>	
+                                 <div class="col-md-4">
+                                 	<a target="_blank" href="https://youthforindia.org/">
+                                 		<div class="card card-profile">
+                                 			<div >
+                                 				<br><img class="img" height=120px width=auto type="image/png" src="./assets/img/Sponsors/SBI Youth for India.jpeg" />
+                                 			</div>
+                                 			<div class="card-body ">
+                                 				<h6 class="card-title"><br>SBI Youth for India</h6>
+                                 				<h6 class="card-category text-muted">Silver Sponsor</h6>
+                                 			</div>
+                                 		</div>
+                                 	</a>
+                                 </div>
+                                 </div>	-->
+                              <div class="row">
+                                 <div class="col-md-4">
+                                    <a target="_blank" href="https://www.havishmconsulting.com/">
+                                       <div class="card card-profile">
+                                          <div >
+                                             <br><img class="img" height=50px width=auto type="image/png" src="./assets/img/Sponsors/2022/Havish M Consulting.jpeg" />
+                                          </div>
+                                          <div class="card-body ">
+                                             <h4 class="card-title">Havish M Consulting</h4>
+                                             <h6 class="card-category text-muted">Gold Sponsor</h6>
+                                          </div>
+                                       </div>
+                                    </a>
+                                 </div>
+                                 <div class="col-md-4">
+                                    <a target="_blank" href="https://assetcompounders.com/">
+                                       <div class="card card-profile">
+                                          <div >
+                                             <br><img class="img" height=50px width=auto type="image/png" src="./assets/img/Sponsors/2022/Asset Componders1.jpeg" />
+                                          </div>
+                                          <div class="card-body ">
+                                             <h4 class="card-title">Asset Compounders</h4>
+                                             <h6 class="card-category text-muted">Silver Sponsor</h6>
+                                          </div>
+                                       </div>
+                                    </a>
+                                 </div>
+                                 <div class="col-md-4">
+                                    <a target="_blank" href="https://www.elearnmarkets.com/">
+                                       <div class="card card-profile">
+                                          <div >
+                                             <br><img class="img" height=50px width=auto type="image/png" src="./assets/img/Sponsors/2022/elearnmarkets.jpeg" />
+                                          </div>
+                                          <div class="card-body ">
+                                             <h4 class="card-title">Elearnmarkets</h4>
+                                             <h6 class="card-category text-muted">Education Partner</h6>
+                                          </div>
+                                       </div>
+                                    </a>
+                                 </div>
+                              </div>
+                              <div class ="row">
+                                 <div class="col-md-4">
+                                    <a target="_blank" href="https://bongswag.com/">
+                                       <div class="card card-profile">
+                                          <div >
+                                             <br><img class="img" height=50px width=auto type="image/png" src="./assets/img/Sponsors/2022/Bong Swag.jpeg" />
+                                          </div>
+                                          <div class="card-body ">
+                                             <h4 class="card-title">Bong Swag</h4>
+                                             <h6 class="card-category text-muted">Merchandise Partner</h6>
+                                          </div>
+                                       </div>
+                                    </a>
+                                 </div>
+                                 <div class="col-md-4">
+                                    <a target="_blank" href="https://www.business-standard.com/">
+                                       <div class="card card-profile">
+                                          <div >
+                                             <br><img class="img" height=50px width=auto type="image/png" src="./assets/img/Sponsors/2022/Logo BusinessStandard.jpg" />
+                                          </div>
+                                          <div class="card-body ">
+                                             <h4 class="card-title">Business Standard</h4>
+                                             <h6 class="card-category text-muted">Media Partner</h6>
+                                          </div>
+                                       </div>
+                                    </a>
+                                 </div>
+                                 <div class="col-md-4">
+                                    <a target="_blank" href="https://dare2compete.com/">
+                                       <div class="card card-profile">
+                                          <div >
+                                             <br>
+                                             <img class="img" height=50px width=auto type="image/png" src="./assets/img/Sponsors/Dare2Compete.png" />
+                                          </div>
+                                          <div class="card-body ">
+                                             <h4 class="card-title">Dare2Compete</h4>
+                                             <h6 class="card-category text-muted">Purvodaya '22 powered by Unstop</h6>
+                                          </div>
+                                       </div>
+                                    </a>
+                                 </div>
+                              </div>
+                              <!--<div class="row">
+                                 <div class="col-md-4">
+                                 	<a target="_blank" href="http://teeshood.com/">
+                                 		<div class="card card-profile">
+                                 			<div >
+                                 				<br>
+                                 				<img class="img" height=50px width=auto type="image/png" src="./assets/img/Sponsors/Teeshood.png" />
+                                 			</div>
+                                 			<div class="card-body ">
+                                 				<h4 class="card-title">Teeshood</h4>
+                                 				<h6 class="card-category text-muted">Merchandise partner</h6>
+                                 			</div>
+                                 		</div>
+                                 	</a>
+                                 </div>
+                                 <div class="col-md-4">
+                                 	<a target="_blank" href="https://wharfstreetstudios.com/">
+                                 		<div class="card card-profile">
+                                 			<div >
+                                 				<br>
+                                 				<img class="img" height=50px width=auto type="image/png" src="./assets/img/Sponsors/Wharf Street Studios.png" />
+                                 			</div>
+                                 			<div class="card-body ">
+                                 				<h4 class="card-title">Wharf Street Studios</h4>
+                                 				<h6 class="card-category text-muted">Event Sponsor</h6>
+                                 			</div>
+                                 		</div>
+                                 	</a>
+                                 </div>-->
+                              <div class="row">
+                                 <div class="col-md-4">
+                                    <a target="_blank" href="https://www.facebook.com/919FriendsFM/">
+                                       <div class="card card-profile">
+                                          <div >
+                                             <br>
+                                             <img class="img" height=50px width=auto type="image/png" src="./assets/img/Sponsors/2022/friends fm.jpeg" />
+                                          </div>
+                                          <div class="card-body ">
+                                             <h4 class="card-title">91.9 Friends FM</h4>
+                                             <h6 class="card-category text-muted">Exclusive Radio Partner</h6>
+                                          </div>
+                                       </div>
+                                    </a>
+                                 </div>
+                                 <div class="col-md-4">
+                                    <a target="_blank" href="https://www.homeflicwegrow.com/">
+                                       <div class="card card-profile">
+                                          <div >
+                                             <br>
+                                             <img class="img" height=50px width=auto type="image/png" src="./assets/img/Sponsors/2022/homeflic.jpeg" />
+                                          </div>
+                                          <div class="card-body ">
+                                             <h4 class="card-title">Homeflic</h4>
+                                             <h6 class="card-category text-muted">Gifting Partner</h6>
+                                          </div>
+                                       </div>
+                                    </a>
+                                 </div>
+                                 <div class="col-md-4">
+                                    <a target="_blank">
+                                       <div class="card card-profile">
+                                          <div >
+                                             <br>
+                                             <img class="img" height=50px width=auto type="image/png" src="./assets/img/Sponsors/tech-club.jpeg" />
+                                          </div>
+                                          <div class="card-body ">
+                                             <h4 class="card-title">VGSoM Tech Club </h4>
+                                             <h6 class="card-category text-muted">In house website partner</h6>
+                                          </div>
+                                       </div>
+                                    </a>
+                                 </div>
+                              </div>
+                              <div class="row">
+                                 <div class="col-md-8 ml-auto mr-auto text-center">
+                                    <h3 class="title">Event Sponsors</h3>
+                                 </div>
+                              </div>
+                              <div class="row">
+                                 <div class="col-md-3">
+                                    <a target="_blank" href="http://areteservices.in/">
+                                       <div class="card card-profile">
+                                          <div >
+                                             <br><img class="img" height=60px width=auto type="image/png" src="./assets/img/Sponsors/2022/arete.jpeg" />
+                                          </div>
+                                          <div class="card-body ">
+                                             <h6 class="card-title"><br>Arete</h6>
+                                             <h6 class="card-category text-muted">Event Sponsor</h6>
+                                          </div>
+                                       </div>
+                                    </a>
+                                 </div>
+                                 <div class="col-md-3">
+                                    <a target="_blank" href="https://kayesssquare.com/">
+                                       <div class="card card-profile">
+                                          <div >
+                                             <br><img class="img" height=60px width=auto type="image/png" src="./assets/img/Sponsors/2022/Kayess Square Consulting_res.png" />
+                                          </div>
+                                          <div class="card-body ">
+                                             <h6 class="card-title"><br>Kayess Square</h6>
+                                             <h6 class="card-category text-muted">Event Sponsor</h6>
+                                          </div>
+                                       </div>
+                                    </a>
+                                 </div>
+                                 <div class="col-md-3">
+                                    <a target="_blank" href="https://learningwhiletravelling.com/home">
+                                       <div class="card card-profile">
+                                          <div >
+                                             <br><img class="img" height=60px width=auto type="image/png" src="./assets/img/Sponsors/Learning_While_Travelling.png" />
+                                          </div>
+                                          <div class="card-body ">
+                                             <h6 class="card-title"><br>Learning While Travelling</h6>
+                                             <h6 class="card-category text-muted">Event sponsor</h6>
+                                          </div>
+                                       </div>
+                                    </a>
+                                 </div>
+                                 <div class="col-md-3">
+                                    <a target="_blank" href="https://www.bplanexperts.com/">
+                                       <div class="card card-profile">
+                                          <div >
+                                             <br><img class="img" height=60px width=auto type="image/png" src="./assets/img/Sponsors/2022/BPlan Experts Logo1.jpeg" />
+                                          </div>
+                                          <div class="card-body ">
+                                             <h6 class="card-title"><br>BPlan Experts</h6>
+                                             <h6 class="card-category text-muted">Event Sponsor</h6>
+                                          </div>
+                                       </div>
+                                    </a>
+                                 </div>
+                                 <div class="col-md-3">
+                                    <a target="_blank" href="https://arthayan.in/">
+                                       <div class="card card-profile">
+                                          <div >
+                                             <br><img class="img" height=60px width=auto type="image/png" src="./assets/img/Sponsors/2022/Arthayan logo.png" />
+                                          </div>
+                                          <div class="card-body ">
+                                             <h6 class="card-title"><br>Arthayan</h6>
+                                             <h6 class="card-category text-muted">Mentorship Partner</h6>
+                                          </div>
+                                       </div>
+                                    </a>
+                                 </div>
+                                 <div class="col-md-3">
+                                    <a target="_blank" href="https://crazyaboutstartups.com/">
+                                       <div class="card card-profile">
+                                          <div >
+                                             <br><img class="img" height=60px width=auto type="image/png" src="./assets/img/Sponsors/2022/Crazy About Startups.png" />
+                                          </div>
+                                          <div class="card-body ">
+                                             <h6 class="card-title"><br>Crazy About Startups</h6>
+                                             <h6 class="card-category text-muted">Digital Media Partner</h6>
+                                          </div>
+                                       </div>
+                                    </a>
+                                 </div>
+                                 <div class="col-md-3">
+                                    <a target="_blank" href="https://www.nishkaera.com/">
+                                       <div class="card card-profile">
+                                          <div >
+                                             <br><img class="img" height=60px width=auto type="image/png" src="./assets/img/Sponsors/2022/Nishkaera.png" />
+                                          </div>
+                                          <div class="card-body ">
+                                             <h6 class="card-title"><br>Nishkaera</h6>
+                                             <h6 class="card-category text-muted">Event sponsor</h6>
+                                          </div>
+                                       </div>
+                                    </a>
+                                 </div>
+                                 <div class="col-md-3">
+                                    <a target="_blank" href="https://www.ecrivonsgraphology.com/">
+                                       <div class="card card-profile">
+                                          <div >
+                                             <br><img class="img" height=60px width=auto type="image/png" src="./assets/img/Sponsors/2022/Ecrivons.png" />
+                                          </div>
+                                          <div class="card-body ">
+                                             <h6 class="card-title"><br>Ecrivons</h6>
+                                             <h6 class="card-category text-muted">Mentorship Partner</h6>
+                                          </div>
+                                       </div>
+                                    </a>
+                                 </div>
+                                 <div class="col-md-3">
+                                    <a target="_blank" href="https://www.mission-samriddhi.org/">
+                                       <div class="card card-profile">
+                                          <div >
+                                             <br><img class="img" height=60px width=auto type="image/png" src="./assets/img/Sponsors/2022/Mission Samriddhi.jpg" />
+                                          </div>
+                                          <div class="card-body ">
+                                             <h6 class="card-title"><br>Mission Samriddhi</h6>
+                                             <h6 class="card-category text-muted">CSR Partner</h6>
+                                          </div>
+                                       </div>
+                                    </a>
+                                 </div>
+                                 <div class="col-md-3">
+                                    <a target="_blank" href="https://www.iscea.org/">
+                                       <div class="card card-profile">
+                                          <div >
+                                             <br><img class="img" height=60px width=auto type="image/png" src="./assets/img/Sponsors/2022/ISCEA.png" />
+                                          </div>
+                                          <div class="card-body ">
+                                             <h6 class="card-title"><br>ISCEA</h6>
+                                             <h6 class="card-category text-muted">Knowledge Partner</h6>
+                                          </div>
+                                       </div>
+                                    </a>
+                                 </div>
+                                 <div class="col-md-3">
+                                    <a target="_blank" href="https://www.stockgro.club/">
+                                       <div class="card card-profile">
+                                          <div >
+                                             <br><img class="img" height=60px width=auto type="image/png" src="./assets/img/Sponsors/2022/StockGro.jpeg" />
+                                          </div>
+                                          <div class="card-body ">
+                                             <h6 class="card-title"><br>StockGro</h6>
+                                             <h6 class="card-category text-muted">Event Sponsor</h6>
+                                          </div>
+                                       </div>
+                                    </a>
+                                 </div>
+                                 <div class="col-md-3">
+                                    <a target="_blank" href="https://www.decoralley.in/">
+                                       <div class="card card-profile">
+                                          <div >
+                                             <br><img class="img" height=60px width=auto type="image/png" src="./assets/img/Sponsors/2022/decoralley.jpeg" />
+                                          </div>
+                                          <div class="card-body ">
+                                             <h6 class="card-title"><br>Decoralley</h6>
+                                             <h6 class="card-category text-muted">Event Sponsor</h6>
+                                          </div>
+                                       </div>
+                                    </a>
+                                 </div>
+                                 <div class="col-md-3">
+                                    <a target="_blank" href="https://www.agri10x.com/">
+                                       <div class="card card-profile">
+                                          <div >
+                                             <br><img class="img" height=60px width=auto type="image/png" src="./assets/img/Sponsors/2022/Agri10x.png" />
+                                          </div>
+                                          <div class="card-body ">
+                                             <h6 class="card-title"><br>Agri10x</h6>
+                                             <h6 class="card-category text-muted">Event Sponsor</h6>
+                                          </div>
+                                       </div>
+                                    </a>
+                                 </div>
+                              </div>
+                              <!--<div class="row">
+                                 <div class="col-md-3">
+                                 	<a target="_blank" href="https://www.nishkaera.com/">
+                                 		<div class="card card-profile">
+                                 			<div >
+                                 				<br><img class="img" height=60px width=auto type="image/png" src="./assets/img/Sponsors/2022/Nishkaera.png" />
+                                 			</div>
+                                 			<div class="card-body ">
+                                 				<h6 class="card-title"><br>Nishkaera</h6>
+                                 				<h6 class="card-category text-muted">Co-sponsor</h6>
+                                 			</div>
+                                 		</div>
+                                 	</a>
+                                 </div>
+                                 <div class="col-md-3">
+                                 	<a target="_blank" href="https://www.ecrivonsgraphology.com/">
+                                 		<div class="card card-profile">
+                                 			<div >
+                                 				<br><img class="img" height=60px width=auto type="image/png" src="./assets/img/Sponsors/2022/Ecrivons.png" />
+                                 			</div>
+                                 			<div class="card-body ">
+                                 				<h6 class="card-title"><br>Ecrivons</h6>
+                                 				<h6 class="card-category text-muted">Mentorship Partner</h6>
+                                 			</div>
+                                 		</div>
+                                 	</a>
+                                 </div>
+                                 <!--<div class="col-md-3">
+                                 	<a target="_blank" href="https://madworks.in/">
+                                 		<div class="card card-profile">
+                                 			<div >
+                                 				<br><img class="img" height=60px width=auto type="image/png" src="./assets/img/Sponsors/Logo MADWorks.png" />
+                                 			</div>
+                                 			<div class="card-body ">
+                                 				<h6 class="card-title"><br>Mad Works</h6>
+                                 				<h6 class="card-category text-muted">Co-Sponsor</h6>
+                                 			</div>
+                                 		</div>
+                                 	</a>
+                                 </div>-->
+                              <!--<div class="col-md-3">
+                                 <a target="_blank" href="https://www.stockgro.club/">
+                                 	<div class="card card-profile">
+                                 		<div >
+                                 			<br><img class="img" height=80px width=auto type="image/png" src="./assets/img/Sponsors/StockGro.jpeg" />
+                                 		</div>
+                                 		<div class="card-body ">
+                                 			<h6 class="card-title"><br>StockGro</h6>
+                                 			<h6 class="card-category text-muted">Trading Sponsor</h6>
+                                 		</div>
+                                 	</div>
+                                 </a>
+                                 </div>-->
+                           </div>
+                           <!--<div class="row">
+                              <div class="col-md-3">
+                              	<a target="_blank" href="https://ecole-intuit-lab.co.in/">
+                              		<div class="card card-profile">
+                              			<div >
+                              				<br><img class="img" height=70px width=auto type="image/png" src="./assets/img/Sponsors/Ecole Intuit Lab.png" />
+                              			</div>
+                              			<div class="card-body ">
+                              				<h6 class="card-title"><br>Ecole intuit.lab</h6>
+                              				<h6 class="card-category text-muted">Sponsor</h6>
+                              			</div>
+                              		</div>
+                              	</a>
+                              </div>
+                              <div class="col-md-3">
+                              	<a target="_blank" href="https://eattributes.com//">
+                              		<div class="card card-profile">
+                              			<div >
+                              				<br><img class="img" height=70px width=auto type="image/png" src="./assets/img/Sponsors/Ethna Attributes.png" />
+                              			</div>
+                              			<div class="card-body ">
+                              				<h6 class="card-title"><br>Ethna Attributes</h6>
+                              				<h6 class="card-category text-muted">Sponsor</h6>
+                              			</div>
+                              		</div>
+                              	</a>
+                              </div>
+                              <div class="col-md-3">
+                              	<a target="_blank" href="https://themindbeyond.com/">
+                              		<div class="card card-profile">
+                              			<div >
+                              				<br><img class="img" height=70px width=90px type="image/png" src="./assets/img/Sponsors/The Mind Beyond.jpeg" />
+                              			</div>
+                              			<div class="card-body ">
+                              				<h6 class="card-title"><br>The Mind Beyond</h6>
+                              				<h6 class="card-category text-muted">Co-Sponsor</h6>
+                              			</div>
+                              		</div>
+                              	</a>
+                              </div>
+                              <div class="col-md-3">
+                              	<a target="_blank" href="https://www.crazyaboutstartups.com/">
+                              		<div class="card card-profile">
+                              			<div >
+                              				<br><img class="img" height=70px width=auto type="image/png" src="./assets/img/Sponsors/Crazy About Startups.png" />
+                              			</div>
+                              			<div class="card-body ">
+                              				<h6 class="card-title"><br>Crazy About Startups</h6>
+                              				<h6 class="card-category text-muted">Digital Media Partner</h6>
+                              			</div>
+                              		</div>
+                              	</a>
+                              </div>
+                              </div>-->
+                        </div>
+                        <!--<div class="row">
+                           <div class="col-md-3">
+                           	<a target="_blank" href="http://www.bplanexperts.com/">
+                           		<div class="card card-profile">
+                           			<div >
+                           				<br><img class="img" height=50px width=auto type="image/png" src="./assets/img/Sponsors/BPlan Experts.png" />
+                           			</div>
+                           			<div class="card-body ">
+                           				<h6 class="card-title"><br>BPlan Experts</h6>
+                           				<h6 class="card-category text-muted">Co-sponsor</h6>
+                           			</div>
+                           		</div>
+                           	</a>
+                           </div>
+                           
+                           </div>-->
+                     </div>
+                     <!--
+                        <div class="col-md-2">
+                        	<a target="_blank" href="https://omcltd.in/">
+                        		<div class="card card-profile">
+                        			<div >
+                        				<br>
+                        				<img class="img" height=40px width=auto type="image/png" src="./assets/img/Sponsors/OMC.png" />
+                        			</div>
+                        			<div class="card-body ">
+                        				<h6 class="card-title">OMCL</h6>
+                        			</div>
+                        		</div>
+                        	</a>
+                        </div>
+                        <div class="col-md-2">
+                        	<a target="_blank" href="https://www.wileyindia.com/">
+                        		<div class="card card-profile">
+                        			<div >
+                        				<br><img class="img" height=40px width=auto type="image/png" src="./assets/img/Sponsors/wiley.png" />
+                        			</div>
+                        			<div class="card-body ">
+                        				<h6 class="card-title">Wiley</h6>
+                        			</div>
+                        		</div>
+                        	</a>
+                        </div>
+                        <div class="col-md-2">
+                        	<a target="_blank" href="https://www.sbiyono.sbi/">
+                        		<div class="card card-profile">
+                        			<div >
+                        				<br><img class="img" height=40px width=auto type="image/png" src="./assets/img/Sponsors/SBI.png" />
+                        			</div>
+                        			<div class="card-body ">
+                        				<h6 class="card-title">SBI</h6>
+                        			</div>
+                        		</div>
+                        	</a>
+                        </div>
+                        <div class="col-md-2">
+                        	<a target="_blank" href="https://www.markytics.com/">
+                        		<div class="card card-profile">
+                        			<div >
+                        				<br><img class="img" height=40px width=auto type="image/png" src="./assets/img/Sponsors/Markytics.png" />
+                        			</div>
+                        			<div class="card-body ">
+                        				<h6 class="card-title">Markytics</h6>
+                        			</div>
+                        		</div>
+                        	</a>
+                        </div> 
+                        <div class="col-md-2">
+                        	<a target="_blank" href="http://silverneuron.com/">
+                        		<div class="card card-profile">
+                        			<div >
+                        				<br><img class="img" height=40px width=auto type="image/png" src="./assets/img/Sponsors/silver.png" />
+                        			</div>
+                        			<div class="card-body ">
+                        				<h6 class="card-title">Silver Neuron</h6>
+                        			</div>
+                        		</div>
+                        	</a>
+                        </div> 
+                        </div>
+                        <div class="row">
+                        <div class="col-md-2">
+                        	<a target="_blank" href="https://karmakettle.com/">
+                        		<div class="card card-profile">
+                        			<div >
+                        				<br><img class="img" height=40px width=auto type="image/png" src="./assets/img/Sponsors/karma-kettle.png" />
+                        			</div>
+                        			<div class="card-body ">
+                        				<h6 class="card-title">Karma Kettle<br><br></h6>
+                        			</div>
+                        		</div>
+                        	</a>
+                        </div>
+                        <div class="col-md-2">
+                        	<a target="_blank" href="http://fvacademy.co.in/">
+                        		<div class="card card-profile">
+                        			<div >
+                        				<br><img class="img" height=40px width=auto type="image/png" src="./assets/img/Sponsors/Forevision.png" />
+                        			</div>
+                        			<div class="card-body ">
+                        				<h6 class="card-title">Forevision<br><br></h6>
+                        			</div>
+                        		</div>
+                        	</a>
+                        </div>
+                        <div class="col-md-2">
+                        	<a target="_blank" href="https://youthforindia.org/">
+                        		<div class="card card-profile">
+                        			<div >
+                        				<br>
+                        				<img class="img" height=40px width=auto type="image/png" src="./assets/img/Sponsors/SBIYFI.png" />
+                        			</div>
+                        			<div class="card-body ">
+                        				<h6 class="card-title">SBI Youth for India</h6>
+                        			</div>
+                        		</div>
+                        	</a>
+                        </div>
+                        
+                        <div class="col-md-2">
+                        	<a target="_blank" href="https://www.gowebbo.com/">
+                        		<div class="card card-profile">
+                        			<div >
+                        				<br><img class="img" height=40px width=auto type="image/png" src="./assets/img/Sponsors/GoWebbo.png" />
+                        			</div>
+                        			<div class="card-body ">
+                        				<h6 class="card-title">GoWebbo and Company</h6>
+                        			</div>
+                        		</div>
+                        	</a>
+                        </div>
+                        <div class="col-md-2">
+                        	<a target="_blank" href="https://www.scnext.org/">
+                        		<div class="card card-profile">
+                        			<div >
+                        				<br><img class="img" height=40px width=auto type="image/png" src="./assets/img/Sponsors/ISCEA.png" />
+                        			</div>
+                        			<div class="card-body ">
+                        				<h6 class="card-title">ISCEA SCNext India Skill Pro</h6>
+                        			</div>
+                        		</div>
+                        	</a>
+                        </div>
+                        <div class="col-md-2">
+                        	<a target="_blank" href="https://www.havishmconsulting.com">
+                        		<div class="card card-profile">
+                        			<div >
+                        				<br>
+                        				<img class="img" height=40px width=auto type="image/png" src="./assets/img/Sponsors/havish.jpg" />
+                        			</div>
+                        			<div class="card-body ">
+                        				<h6 class="card-title">Havish M. Consulting</h6>
+                        			</div>
+                        		</div>
+                        	</a>
+                        </div>
+                        </div>
+                        <div class="row">
+                        <div class="col-md-4">
+                        	<a target="_blank" href="https://eattributes.com/">
+                        		<div class="card card-profile">
+                        			<div >
+                        				<br><img class="img" height=40px width=auto type="image/png" src="./assets/img/Sponsors/EA_logo.png" />
+                        			</div>
+                        			<div class="card-body ">
+                        				<h6 class="card-title">Ethna Attributes Soft Technologies Pvt. Ltd.</h6>
+                        			</div>
+                        		</div>
+                        	</a>
+                        </div>
+                        <div class="col-md-4">
+                        	<a target="_blank" href="https://www.pnbindia.in/">
+                        		<div class="card card-profile">
+                        			<div >
+                        				<br><img class="img" height=40px width=auto type="image/png" src="./assets/img/Sponsors/pnb.jpeg" />
+                        			</div>
+                        			<div class="card-body ">
+                        				<h6 class="card-title">Punjab National Bank<br><br></h6>
+                        			</div>
+                        		</div>
+                        	</a>
+                        </div>
+                        <div class="col-md-4">
+                        	<a target="_blank" href="https://www.arthfc.com/">
+                        		<div class="card card-profile">
+                        			<div >
+                        				<br><img class="img" height=40px width=auto type="image/png" src="./assets/img/Sponsors/ART.jpg" />
+                        			</div>
+                        			<div class="card-body ">
+                        				<h6 class="card-title">ART Housing Finance (India) Limited<br><br></h6>
+                        			</div>
+                        		</div>
+                        	</a>
+                        </div>
+                        -->
+                     <!--
+                        <div class="col-md-3">
+                             <a target="_blank" href="https://www.pli-petronas.com/en-in">
+                           <div class="card card-profile">
+                                 <div >
+                                   <br><img class="img" height=40px width=auto type="image/png" src="./assets/img/Sponsors/Petronas.png" />
+                                 </div>
+                               <div class="card-body ">
+                                 <h6 class="card-title">Petronas Lubricants<br><br></h6>
+                               </div>
+                             </div>
+                           </a>
+                           </div>
+                        -->
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="cd-section" id="gallery">
+            <!--     *********    GALLERY CAROUSEL     *********      -->
+            <div class="testimonials-2 section-dark">
+               <div class="container">
+                  <div class="col-md-10 ml-auto mr-auto text-center">
+                     <h2 class="title">Gallery</h2>
+                     <h5 class="description">Glimpses of Purvodaya</h5>
+                  </div>
+                  <div class="row">
+                     <div class="col-md-12">
+                        <div id="carouselExampleIndicatorss" class="carousel slide" data-ride="carousel">
+                           <div class="carousel-inner">
+                              <div class="carousel-item active">
+                                 <div class="card card-plain card-testimonial">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/2020-1.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '20</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/2020-2.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '20</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/2020-3.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '20</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/2020-4.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '20</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/2020-5.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '20</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/2020-6.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '20</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/2020-7.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '20</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/2020-8.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '20</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/2020-9.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '20</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/01-min.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '19</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/02-min.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '19</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/03-min.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '19</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/04-min.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '19</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/05-min.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '19</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/06-min.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '19</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/07-min.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '19</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/08-min.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '19</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/09-min.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '19</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/11-min.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '19</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/12-min.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '19</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/13-min.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '19</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/14-min.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '19</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/15-min.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '19</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/17-min.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '19</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="carousel-item">
+                                 <div class="card card-testimonial card-plain">
+                                    <div class="card-header card-header-image">
+                                       <img class="img img-raised" src="./assets/img/gallery/18-min.jpg">
+                                    </div>
+                                    <div class="card-body">
+                                       <h5 class="card-description">Purvodaya '19</h5>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#carouselExampleIndicatorss" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleIndicatorss" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <!--     *********    END GALLERY CAROUSEL    *********      -->
+      </div>
+      </div>
+      <div class="cd-section" id="theteam">
+         <!--     *********    FACULTY COORDINATORS    *********      -->
+         <div class="team-1" id="team-1">
+            <div class="container">
+               <div class="row">
+                  <div class="col-md-8 ml-auto mr-auto text-center">
+                     <h2 class="title">Our Faculty Coordinators</h2>
+                  </div>
+               </div>
+               <div class="row">
+                  <div class="col-md-4">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/faculties/prabina.jpg" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Prof. Prabina Rajib</h4>
+                           <h6 class="card-category text-muted">Professor</h6>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/prabina.rajib.9" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://linkedin.com/in/prabina-rajib-85066616/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-4">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/faculties/achandra.jpg" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Prof. Abhijeet Chandra</h4>
+                           <h6 class="card-category text-muted">Assistant Professor</h6>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/chandra.abhijeet" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/abhijeetc" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <!--
+                     <div class="col-md-3">
+                     	<div class="card card-profile card-plain">
+                     		<div class="card-header card-avatar">
+                     			<img class="img" src="./assets/img/faculties/tutan.jpg" />
+                     		</div>
+                     		<div class="card-body ">
+                     			<h4 class="card-title">Prof. Tutan Ahmed</h4>
+                     			<h6 class="card-category text-muted">Assistant Professor</h6>
+                     		</div>
+                     		<div class="card-footer justify-content-center">
+                     			<a href="https://www.facebook.com/tutan.ahmed" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                     			<a href="https://www.linkedin.com/in/dr-tutan-ahmed-43193518/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                     		</div>
+                     	</div>
+                     </div> 
+                     -->
+                  <div class="col-md-4">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/faculties/srinivas.jpg" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Prof. S Srinivasan</h4>
+                           <h6 class="card-category text-muted">Assistant Professor</h6>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.linkedin.com/in/srinivasan-s-33893558/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="row">
+                  <div class="col-md-8 ml-auto mr-auto text-center">
+                     <h2 class="title">Meet The Team</h2>
+                  </div>
+               </div>
+               <!--<div class="row">
+                  <div class="col-md-2">
+                  	<div class="card card-profile card-plain">
+                  		<div class="card-header card-avatar">
+                  			<img class="img" src="./assets/img/Team/jnr/Kanika.JPG" />
+                  		</div>
+                  		<div class="card-body ">
+                  			<h4 class="card-title">Kanika Yadav</h4>
+                  		</div>
+                  		<div class="card-footer justify-content-center">
+                  			<a href="https://www.facebook.com/kanika.yadav.562" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                  			<a href="https://www.linkedin.com/in/kanika-yadav-3172986b" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                  		</div>
+                  	</div>
+                  </div>
+                  
+                  <div class="col-md-2">
+                  	<div class="card card-profile card-plain">
+                  		<div class="card-header card-avatar">
+                  			<img class="img" src="./assets/img/Team/jnr/Subham Paul.jpg" />
+                  		</div>
+                  		<div class="card-body ">
+                  			<h4 class="card-title">Shubham Paul</h4>
+                  		</div>
+                  		<div class="card-footer justify-content-center">
+                  			<a href="https://www.facebook.com/VEERARYANS" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                  			<a href="https://www.linkedin.com/in/shubham-paul-761609a2/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                  		</div>
+                  	</div>
+                  </div>
+                  <div class="col-md-2">
+                  	<div class="card card-profile card-plain">
+                  		<div class="card-header card-avatar">
+                  			<img class="img" src="./assets/img/Team/jnr/Aditya Garg.jpg" />
+                  		</div>
+                  		<div class="card-body ">
+                  			<h4 class="card-title">Aditya Garg</h4>
+                  		</div>
+                  		<div class="card-footer justify-content-center">
+                  			<a href="https://www.facebook.com/aditya.garg.56" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                  			<a href="https://www.linkedin.com/in/aditya-garg-7784b7116" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                  		</div>
+                  	</div>
+                  </div>
+                  <div class="col-md-2">
+                  	<div class="card card-profile card-plain">
+                  		<div class="card-header card-avatar">
+                  			<img class="img" src="./assets/img/Team/jnr/Shimon.jpg" />
+                  		</div>
+                  		<div class="card-body ">
+                  			<h4 class="card-title">Shimon</h4>
+                  		</div>
+                  		<div class="card-footer justify-content-center">
+                  			<a href="https://www.facebook.com/shimon369" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                  			<a href="https://www.linkedin.com/in/shimon-p-silvester" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                  		</div>
+                  	</div>
+                  </div>
+                  <div class="col-md-2">
+                  	<div class="card card-profile card-plain">
+                  		<div class="card-header card-avatar">
+                  			<img class="img" src="./assets/img/Team/jnr/Vignesh.JPG" />
+                  		</div>
+                  		<div class="card-body ">
+                  			<h4 class="card-title">Vignesh V</h4>
+                  		</div>
+                  		<div class="card-footer justify-content-center">
+                  			<a href="https://www.facebook.com/vicky.venkataraman" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                  			<a href="https://www.linkedin.com/in/vignesh-venkataraman-579888a3" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                  		</div>
+                  	</div>
+                  </div>
+                  <div class="col-md-2">
+                  	<div class="card card-profile card-plain">
+                  		<div class="card-header card-avatar">
+                  			<img class="img" src="./assets/img/Team/jnr/Akash Sahu.jpg" />
+                  		</div>
+                  		<div class="card-body ">
+                  			<h4 class="card-title">Akash Sahu</h4>
+                  		</div>
+                  		<div class="card-footer justify-content-center">
+                  			<a href="https://www.facebook.com/akash.sahu.37017" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                  			<a href="https://www.linkedin.com/in/akash-sahu1995" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                  		</div>
+                  	</div>
+                  </div>
+                  </div>-->
+               <!--<div class="row">
+                  <div class="col-md-2">
+                  	<div class="card card-profile card-plain">
+                  		<div class="card-header card-avatar">
+                  			<img class="img" src="./assets/img/Team/jnr/Vishnu.JPG" />
+                  		</div>
+                  		<div class="card-body ">
+                  			<h4 class="card-title">Vishnu Prasanth</h4>
+                  		</div>
+                  		<div class="card-footer justify-content-center">
+                  			<a href="https://www.facebook.com/vishnuprasanth94" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                  			<a href="https://www.linkedin.com/in/vishnu-prasanth-9a9838105/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                  		</div>
+                  	</div>
+                  </div>
+                  
+                  <div class="col-md-2">
+                  	<div class="card card-profile card-plain">
+                  		<div class="card-header card-avatar">
+                  			<img class="img" src="./assets/img/Team/jnr/Gaganpreet.JPG" />
+                  		</div>
+                  		<div class="card-body ">
+                  			<h4 class="card-title">Gaganpreet</h4>
+                  		</div>
+                  		<div class="card-footer justify-content-center">
+                  			<a href="https://www.linkedin.com/in/gaganpreetsw" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                  		</div>
+                  	</div>
+                  </div>
+                  <div class="col-md-2">
+                  	<div class="card card-profile card-plain">
+                  		<div class="card-header card-avatar">
+                  			<img class="img" src="./assets/img/Team/jnr/Garima.JPG" />
+                  		</div>
+                  		<div class="card-body ">
+                  			<h4 class="card-title">Garima Agarwal</h4>
+                  		</div>
+                  		<div class="card-footer justify-content-center">
+                  			<a href="https://facebook.com/garima.agarwal.263" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                  			<a href="https://www.linkedin.com/in/garima-agarwal-030b85124 " target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                  		</div>
+                  	</div>
+                  </div>  
+                  <div class="col-md-2">
+                  	<div class="card card-profile card-plain">
+                  		<div class="card-header card-avatar">
+                  			<img class="img" src="./assets/img/Team/jnr/Shreyas.JPG" />
+                  		</div>
+                  		<div class="card-body ">
+                  			<h4 class="card-title">Shreyash</h4>
+                  		</div>
+                  		<div class="card-footer justify-content-center">
+                  			<a href="https://www.facebook.com/shreyash.wankhade.5" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                  			<a href="https://www.linkedin.com/in/shreyash-wankhade-84a1a9108" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                  		</div>
+                  	</div>
+                  </div>
+                  <div class="col-md-2">
+                  	<div class="card card-profile card-plain">
+                  		<div class="card-header card-avatar">
+                  			<img class="img" src="./assets/img/Team/jnr/Kartik Dasari.jpg" />
+                  		</div>
+                  		<div class="card-body ">
+                  			<h4 class="card-title">Karthik Dasari</h4>
+                  		</div>
+                  		<div class="card-footer justify-content-center">
+                  			<a href="https://m.facebook.com/karthik.dasari.1806" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                  			<a href="https://www.linkedin.com/in/karthik-dasari-a9200a119" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                  		</div>
+                  	</div>
+                  </div>
+                  <div class="col-md-2">
+                  	<div class="card card-profile card-plain">
+                  		<div class="card-header card-avatar">
+                  			<img class="img" src="./assets/img/Team/jnr/Laxmi Raje.JPG" />
+                  		</div>
+                  		<div class="card-body ">
+                  			<h4 class="card-title">Laxmi Raje</h4>
+                  		</div>
+                  		<div class="card-footer justify-content-center">
+                  			<a href="https://www.facebook.com/laxmi.raje" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                  			<a href="https://www.linkedin.com/in/laxmi-raje-94aba2a5" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                  		</div>
+                  	</div>
+                  </div>
+                  </div>-->
+               <div class="row">
+                  <!--<div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                     	<div class="card-header card-avatar">
+                     		<img class="img" src="./assets/img/Team/jnr/Samuel David.jpg" />
+                     	</div>
+                     	<div class="card-body ">
+                     		<h4 class="card-title">Samuel David</h4>
+                     	</div>
+                     	<div class="card-footer justify-content-center">
+                     		<a href="https://www.facebook.com/samuel.david.77715" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                     		<a href="https://www.linkedin.com/in/samuel-david-b3a408111" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                     	</div>
+                     </div>
+                     </div>-->
+                  <!--<div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                     	<div class="card-header card-avatar">
+                     		<img class="img" src="./assets/img/Team/jnr/KrunalMalve.jpg" />
+                     	</div>
+                     	<div class="card-body ">
+                     		<h4 class="card-title">Krunal Malve</h4>
+                     	</div>
+                     	<div class="card-footer justify-content-center">
+                     		<a href="https://www.facebook.com/kru.malve" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                     		<a href="https://www.linkedin.com/in/krunal-malve-02102013b" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                     	</div>
+                     </div>
+                     </div>-->
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2020/Rajdeep Biswas.JPEG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Rajdeep Biswas</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/rajdeep.biswas22" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/rajdeep-biswas-79183a146/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2020/Raj Raushan.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Raj Raushan</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/raj.raushan.94/" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/raj-raushan-4974ba86/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2020/Bhuvanagiri Udaya Bhaskar.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Udaya Bhaskar</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/uday.bhaskar.5680899" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/udayabha/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2020/Ritarshi Chakraborty.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Ritarshi</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/ritarshi.chakraborty.56/" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/ritarshi/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2020/Ayush Raina.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Ayush Raina</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/ayush.raina.37" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/ayush-raina-285946100/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2020/Dhiyeri P Joy.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Dhiyeri P Joy</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/dhiyeri.joy/" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://linkedin.com/in/dhiyeri-joy-530529199" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="row">
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2020/Arghya Roy.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Arghya Roy</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/araarghya42/" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/arghya-roy-017777134/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2020/Rajesh Pathak.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Rajesh Pathak</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/rajeshd6/" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/rajeshd6/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2020/Gourang Kalra.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Gourang Kalra</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/gourang.kalra/" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/gourangkalra/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2020/Shanmugavel M.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Shanmugavel M</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/shanmugavel96/" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/shanmugavel-m-2b853a113/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2020/Date Mayur Narayan.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Mayur Date</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/mayur.date.7/" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/mayur-date-843795148/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2020/Rahul Roy.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Rahul Roy</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/rahulroy.4987/" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/rahulroy4987/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="row">
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2020/Palaparthi Satwika.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Satwika</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/satwika.palaparthi/" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/satwika-palaparthi-2667851ab/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2020/Shumi Mitra.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Shumi Mitra</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/shumi.mitra.5" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/shumi-mitra-0950a4127" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2022/Suraj Chikhale_Purvodaya.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Suraj Chikhale</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/suraj.chikhale/" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/suraj-chikhale/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2022/Abhishek Sonpal.JPEG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Abhishek Sonpal</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/abhishek.sonpal/" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/abhisheksonpal" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2022/Ayaskanta Das_Purvodaya.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Ayaskanta Das</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://m.facebook.com/100001730032978/" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/ayaskantadas" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2022/Deepak Verma_Purvodaya.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Deepak Verma</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/profile.php?id=100004279056700" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/deepak-verma-64965b131/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="row">
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2022/Dhaval Bhanushali_Purvodaya.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Dhaval</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/dhaval.bhanushali.186590" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/dhaval-bhanushali-33265a218" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2022/Gokul M_Purvodaya.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Gokul M</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/gokul.murugaiyan/" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/gokulmurugaiyan/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2022/Jaison Joy_Purvodaya.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Jaison Joy</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/jaison.jaison.10888/" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/jaison-joy-157458b3/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2022/Joel Lalucherian_Purvodaya.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Joel Lalucherian</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/joel.lalucherian.90" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/joellalucherian/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2022/Rohit Shinde_Purvodaya.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Rohit Shinde</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/theweeknd1996/" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/rohit-shinde-1927a5137/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2022/Sameer Quadri_Purvodaya.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Sameer Quadri</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/sameer.quadri.12/" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/sameer-quadri-682143110/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="row">
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2022/Saveen Hanwatkar_Purvodaya.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Saveen</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/saveen.hanwatkar.3" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/saveenhanwatkar/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2022/Soumajit Chail_Purvodaya.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Soumajit Chail</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/soumajit.chail.1" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/soumajitchail" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                        <div class="card-header card-avatar">
+                           <img class="img" src="./assets/img/Team/2022/Srinivasa Praneeth Gundapuneedi.JPG" />
+                        </div>
+                        <div class="card-body ">
+                           <h4 class="card-title">Praneeth G S</h4>
+                        </div>
+                        <div class="card-footer justify-content-center">
+                           <a href="https://www.facebook.com/praneeth.gs/" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                           <a href="https://www.linkedin.com/in/srinivasapraneethgundapuneedi" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <!--<div class="col-md-2">
+                     <div class="card card-profile card-plain">
+                     	<div class="card-header card-avatar">
+                     		<img class="img" src="./assets/img/Team/2022/Vignesh E_Purvodaya.JPG" />
+                     	</div>
+                     	<div class="card-body ">
+                     		<h4 class="card-title">Vignesh E</h4>
+                     	</div>
+                     	<div class="card-footer justify-content-center">
+                     		<a href="https://www.facebook.com/vignesh.wolverine" target="_blank" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook"></i></a>
+                     		<a href="https://www.linkedin.com/in/vignesh-ezhilkumar/" target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                     	</div>
+                     </div>
+                     </div>-->
+               </div>
+            </div>
+         </div>
+      </div>
+      <!--     *********    END TEAM 1      *********      -->
+      <div class="cd-section" id="contactus">
+         <!--     *********    CONTACT US 1     *********      -->
+         <div class="contactus-1 section-image" style="padding-bottom: 0; background-image: url('./assets/img/examples/city.jpg')">
+            <div class="container">
+               <div class="row">
+                  <div class="col-md-5">
+                     <h2 class="title">Get in Touch</h2>
+                     <div class="info info-horizontal">
+                        <div class="icon icon-primary">
+                           <!--<a href="https://goo.gl/maps/Vkdcqoq4wCpzvQAF8" target="_blank"><i class="material-icons">pin_drop</i></a> -->
+                           <i class="material-icons">pin_drop</i>
+                        </div>
+                        <div class="description">
+                           <h4 class="info-title">Reach Us</h4>
+                           <p> Vinod Gupta Schoool of Management,
+                              <br> IIT Kharagpur,
+                              <br> West Bengal - 721302
+                           </p>
+                        </div>
+                     </div>
+                     <div class="info info-horizontal">
+                        <div class="icon icon-primary">
+                           <i class="material-icons">email</i>
+                        </div>
+                        <div class="description">
+                           <h4 class="info-title">Mail Us</h4>
+                           <p> vgsomiitkgp.purvodaya@gmail.com
+                           </p>
+                        </div>
+                     </div>
+                     <div class="info info-horizontal">
+                        <div class="icon icon-primary">
+                           <i class="material-icons">phone</i>
+                        </div>
+                        <div class="description">
+                           <h4 class="info-title">Call Us</h4>
+                           <p> Dhiyeri P Joy
+                              <br> +91 85478 96320
+                           </p>
+                           <p> Gourang Kalra
+                              <br> +91 80102 76750
+                           </p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-5 ml-auto">
+                     <div class="card card-contact">
+                        <form id="contact-form" method="post" action="https://formspree.io/myykbjdp">
+                           <div class="card-header card-header-raised card-header-primary text-center">
+                              <h4 class="card-title">Contact Us</h4>
+                           </div>
+                           <div class="card-body">
+                              <div class="row">
+                                 <div class="col-md-6">
+                                    <div class="form-group label-floating is-empty">
+                                       <label class="bmd-label-floating">First name</label>
+                                       <input type="text" name="firstname" class="form-control" required>
+                                       <span class="material-input"></span>
+                                    </div>
+                                 </div>
+                                 <div class="col-md-6">
+                                    <div class="form-group label-floating is-empty">
+                                       <label class="bmd-label-floating">Last name</label>
+                                       <input type="text" name="lastname" class="form-control" required>
+                                       <span class="material-input"></span>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="form-group label-floating is-empty">
+                                 <label class="bmd-label-floating">Email address</label>
+                                 <input type="email" name="_replyto" class="form-control" required>
+                                 <span class="material-input"></span>
+                              </div>
+                              <div class="form-group label-floating is-empty">
+                                 <label for="exampleMessage1" class="bmd-label-floating">Your Message</label>
+                                 <textarea name="message" class="form-control" rows="6" required></textarea>
+                                 <span class="material-input"></span>
+                              </div>
+                           </div>
+                           <div class="card-footer justify-content-between">
+                              <div class="form-check">
+                              </div>
+                              <button type="submit" class="btn btn-primary pull-right">Send Message</button>
+                           </div>
+                        </form>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <footer>
+               <div class="description" style="margin: 0 auto; color:white; text-shadow: 0 0 5px #abc,0 0 10px#abc; font-weight: bolder;">
+                  © Made with <i class="fa fa-heart heart-icon"></i> by Tech Club | VGSoM IIT Kharagpur
+               </div>
+            </footer>
+         </div>
+         <!--     *********    END CONTACT US 1      *********      -->
+      </div>
+      </div>
+      <!--   Core JS Files   -->
+      <script src="./assets/js/core/jquery.min.js" type="text/javascript"></script>
+      <script src="./assets/js/core/popper.min.js" type="text/javascript"></script>
+      <script src="./assets/js/core/bootstrap-material-design.min.js" type="text/javascript"></script>
+      <script src="./assets/js/plugins/moment.min.js"></script>
+      <!--	Plugin for the Datepicker, full documentation here: https://github.com/Eonasdan/bootstrap-datetimepicker -->
+      <script src="./assets/js/plugins/bootstrap-datetimepicker.js" type="text/javascript"></script>
+      <!--  Plugin for the Sliders, full documentation here: http://refreshless.com/nouislider/ -->
+      <script src="./assets/js/plugins/nouislider.min.js" type="text/javascript"></script>
+      <!--  Google Maps Plugin    -->
+      <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
+      <!--	Plugin for Tags, full documentation here: https://github.com/bootstrap-tagsinput/bootstrap-tagsinputs  -->
+      <script src="./assets/js/plugins/bootstrap-tagsinput.js"></script>
+      <!--	Plugin for Select, full documentation here: http://silviomoreto.github.io/bootstrap-select -->
+      <script src="./assets/js/plugins/bootstrap-selectpicker.js" type="text/javascript"></script>
+      <!--	Plugin for Fileupload, full documentation here: http://www.jasny.net/bootstrap/javascript/#fileinput -->
+      <script src="./assets/js/plugins/jasny-bootstrap.min.js" type="text/javascript"></script>
+      <!--	Plugin for Small Gallery in Product Page -->
+      <script src="./assets/js/plugins/jquery.flexisel.js" type="text/javascript"></script>
+      <!-- Plugins for presentation and navigation  -->
+      <script src="./assets/demo/modernizr.js" type="text/javascript"></script>
+      <script src="./assets/demo/vertical-nav.js" type="text/javascript"></script>
+      <!-- Place this tag in your head or just before your close body tag. -->
+      <script async defer src="https://buttons.github.io/buttons.js"></script>
+      <!-- Js With initialisations For Demo Purpose, Don't Include it in Your Project -->
+      <script src="./assets/demo/demo.js" type="text/javascript"></script>
+      <!-- Control Center for Material Kit: parallax effects, scripts for the example pages etc -->
+      <script src="./assets/js/material-kit.js?v=2.2.0" type="text/javascript"></script>
+      <script>
+         $(document).ready(function() {
+         	materialKitDemo.initContactUs2Map();
+         });
+      </script>
+      <script src="js/jquery-3.3.1.min.js"></script>
+      <script>
+         const second = 1000,
+         minute = second * 60,
+         hour = minute * 60,
+         day = hour * 24;
+         
+         let countDown = new Date('01 31, 2020 00:00:00').getTime(),
+         x = setInterval(function () {
+         
+         	let now = new Date().getTime(),
+         	distance = countDown - now;
+         
+         	document.getElementById('days').innerText = Math.floor(distance / (day)),
+         	document.getElementById('hours').innerText = Math.floor((distance % (day)) / (hour)),
+         	document.getElementById('minutes').innerText = Math.floor((distance % (hour)) / (minute)),
+         	document.getElementById('seconds').innerText = Math.floor((distance % (minute)) / second);
+         
+         				//do something later when date is reached
+         				//if (distance < 0) {
+         				//  clearInterval(x);
+         				//  'IT'S MY BIRTHDAY!;
+         				//}
+         
+         			}, second)
+         		
+      </script>
+      <nav id="cd-vertical-nav">
+         <ul>
+            <li>
+               <a href="#home" data-number="1">
+               <span class="cd-dot"></span>
+               <span class="cd-label">Home</span>
+               </a>
+            </li>
+            <li>
+               <a href="#overview" data-number="2">
+               <span class="cd-dot"></span>
+               <span class="cd-label">Overview</span>
+               </a>
+            </li>
+            <li>
+               <a href="#events" data-number="3">
+               <span class="cd-dot"></span>
+               <span class="cd-label">Events</span>
+               </a>
+            </li>
+            <li>
+               <a href="#speakers" data-number="4">
+               <span class="cd-dot"></span>
+               <span class="cd-label">Speakers</span>
+               </a>
+            </li>
+            <li>
+            <li>
+               <a href="#sponsors" data-number="5">
+               <span class="cd-dot"></span>
+               <span class="cd-label">Sponsors</span>
+               </a>
+            </li>
+            <a href="#gallery" data-number="6">
+            <span class="cd-dot"></span>
+            <span class="cd-label">Gallery</span>
+            </a>
+            </li>
+            <li>
+            <li>
+               <a href="#theteam" data-number="7">
+               <span class="cd-dot"></span>
+               <span class="cd-label">Our Team</span>
+               </a>
+            </li>
+            <li>
+               <a href="#contactus" data-number="8">
+               <span class="cd-dot"></span>
+               <span class="cd-label">Contact Us</span>
+               </a>
+            </li>
+         </ul>
+      </nav>
+   </body>
+</html>
