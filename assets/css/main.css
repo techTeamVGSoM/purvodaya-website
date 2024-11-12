@@ -9,14 +9,9 @@
     background-clip: text;
     -webkit-background-clip: text;
     background-attachment: fixed;
-    animation-name: fontChange;
     animation-duration: 4s;
 }
 
-@keyframes fontChange {
-    from {font-size: 8vw;}
-    to {font-size: 10vw;}
-}
 
 body {
     font-family: Arial, sans-serif;
@@ -111,6 +106,7 @@ body {
     display: flex;
     justify-content: center;
 }
+
 .about div{
     text-align: center;
     width: 70vw;
@@ -138,7 +134,7 @@ body {
     100% { color: orange; } /* Return smoothly to orange */
 }
 
-
+/* 
 .features-5{
     animation: gradient 10s ease infinite;
 }
@@ -153,8 +149,7 @@ body {
 	100% {
 		background-position: 0% 50%;
 	}
-}
-
+} */
 
 .speakers {
     display: flex;
@@ -179,11 +174,13 @@ body {
     display: flex;
     justify-content: center;
 }
+
 .sponsors div{
     text-align: center;
     width: 70vw;
     
 }
+
 .sponsors h2{
     font-family: "Roboto Slab", "Times New Roman", serif;;
     font-weight: bold;
