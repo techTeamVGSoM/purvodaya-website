@@ -1074,6 +1074,156 @@ blockquote span {
   .pv-thumb img{ width: 78px; height: 52px; }
 }
 
+/* Sponsors - PERFECT ALIGNMENT + SAME SIZE */
+.sponsors-section {
+  padding: 80px 0;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+}
+
+.sponsor-row {
+  margin-bottom: 40px !important;
+  align-items: stretch !important; /* CRITICAL: stretches all cards same height */
+}
+
+.sponsor-card.uniform-height {
+  height: 100% !important;
+  min-height: 280px !important; /* Fixed minimum height */
+  display: flex !important;
+  flex-direction: column !important;
+  background: white !important;
+  border-radius: 20px !important;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1) !important;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+  overflow: hidden !important;
+  border: none !important;
+  margin-bottom: 0 !important; /* No extra margins */
+}
+
+.sponsor-card.uniform-height:hover {
+  transform: translateY(-10px) !important;
+  box-shadow: 0 25px 50px rgba(0,0,0,0.2) !important;
+}
+
+.sponsor-img-wrap {
+  flex-shrink: 0 !important; /* Never shrink */
+  padding: 30px 20px !important;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  height: 140px !important; /* FIXED HEIGHT - perfect alignment */
+}
+
+.sponsor-img-wrap img {
+  max-width: 120px !important;
+  max-height: 100px !important; /* Fixed max height */
+  width: auto !important;
+  height: auto !important;
+  object-fit: contain !important;
+  object-position: center !important;
+  filter: brightness(0) invert(1) !important;
+  transition: all 0.3s ease !important;
+}
+
+.sponsor-card.uniform-height:hover .sponsor-img-wrap img {
+  filter: brightness(1) invert(0) !important;
+}
+
+.sponsor-info {
+  flex: 1 !important; /* Takes remaining space */
+  padding: 25px 20px !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  text-align: center !important;
+}
+
+.sponsor-name {
+  font-size: 1.2rem !important;
+  font-weight: 700 !important;
+  margin: 0 0 10px 0 !important;
+  color: #1a1a1a !important;
+  line-height: 1.3 !important;
+  min-height: 2.2em !important; /* Fixed height for text alignment */
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.sponsor-tier {
+  font-size: 0.85rem !important;
+  font-weight: 600 !important;
+  margin: 0 !important;
+  padding: 6px 12px !important;
+  border-radius: 20px !important;
+  letter-spacing: 0.5px !important;
+  text-transform: uppercase !important;
+  display: inline-block !important;
+}
+
+/* Tier Colors */
+.title-sponsor .sponsor-img-wrap { background: linear-gradient(135deg, #ff6b6b, #feca57) !important; }
+.silver-sponsor .sponsor-tier { background: rgba(255,193,7,0.1) !important; color: #f57c00 !important; }
+.text-info .sponsor-tier { background: rgba(33,150,243,0.1) !important; color: #2196f3 !important; }
+.text-success .sponsor-tier { background: rgba(76,175,80,0.1) !important; color: #4caf50 !important; }
+.text-secondary .sponsor-tier { background: rgba(108,117,125,0.1) !important; color: #6c757d !important; }
+
+/* PERFECT MOBILE */
+@media (max-width: 991px) {
+  .sponsor-row {
+    align-items: stretch !important;
+  }
+  
+  .sponsor-card.uniform-height {
+    min-height: 260px !important;
+    margin-bottom: 20px !important;
+  }
+  
+  .sponsor-img-wrap {
+    height: 120px !important;
+    padding: 25px 15px !important;
+  }
+  
+  .sponsor-img-wrap img {
+    max-width: 100px !important;
+    max-height: 80px !important;
+  }
+}
+
+@media (max-width: 576px) {
+  .sponsor-card.uniform-height {
+    min-height: 240px !important;
+  }
+  
+  .sponsor-img-wrap {
+    height: 100px !important;
+    padding: 20px 12px !important;
+  }
+  
+  .sponsor-img-wrap img {
+    max-height: 65px !important;
+  }
+  
+  .sponsor-name {
+    font-size: 1.1rem !important;
+    min-height: 2em !important;
+  }
+}
+
+.card-profile {
+  min-height: 260px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.card-profile img {
+  max-height: 120px;
+  width: auto;
+  object-fit: contain;
+}
+
 
 
 
